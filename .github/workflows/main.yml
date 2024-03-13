@@ -1,0 +1,44 @@
+name: Deploy to Dokku
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  deploy:
+    runs-on: grit-web01
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Setup Ruby and Jekyll
+      run: |
+        # Ensure Ruby and Bundler are installed
+        # Install Jekyll if not already installed
+        gem install jekyll bundler
+        # Install project dependencies
+        bundle install
+
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
+      # Ensure this command runs in the directory containing your Jekyll site's source code, if not root.
+
+    - name: Set up SSH
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -p 22 grit-web02.grit.ucsb.edu >> ~/.ssh/known_hosts
+
+    - name: Deploy to Dokku
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git remote add dokku dokku@grit-web02.grit.ucsb.edu:chc-snippets || git remote set-url dokku dokku@grit-web02.grit.ucsb.edu:chc-snippets
+        # Ensure the Git working directory is clean after Jekyll build
+        git add _site/* -f && git commit -m "Jekyll build for deployment"
+        git push dokku +main:main
+      working-directory: ./_site
