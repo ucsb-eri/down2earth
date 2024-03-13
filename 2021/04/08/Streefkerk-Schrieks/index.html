@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Designing an Agent-Based Model (ABM) - DOWN2EARTH Project</title>
+
+
+
+
+<meta name="description" content="New blog post by DOWN2EARTH Team Members, Ileen Streefkerk and Teun Schrieks.">
+
+
+
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="DOWN2EARTH Project">
+<meta property="og:title" content="Designing an Agent-Based Model (ABM)">
+
+
+  <link rel="canonical" href="http://down2earthproject.org/2021/04/08/Streefkerk-Schrieks/">
+  <meta property="og:url" content="http://down2earthproject.org/2021/04/08/Streefkerk-Schrieks/">
+
+
+
+  <meta property="og:description" content="New blog post by DOWN2EARTH Team Members, Ileen Streefkerk and Teun Schrieks.">
+
+
+
+  <meta name="twitter:site" content="@D2E_Project">
+  <meta name="twitter:title" content="Designing an Agent-Based Model (ABM)">
+  <meta name="twitter:description" content="New blog post by DOWN2EARTH Team Members, Ileen Streefkerk and Teun Schrieks.">
+  <meta name="twitter:url" content="http://down2earthproject.org/2021/04/08/Streefkerk-Schrieks/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+    <meta name="twitter:creator" content="@">
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2021-04-07T17:00:00-07:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "DOWN2EARTH Project",
+      "url" : "http://down2earthproject.org",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://down2earthproject.org/feed.xml" type="application/atom+xml" rel="alternate" title="DOWN2EARTH Project Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- Altmetrics script for creating embeddable metric badges for publications -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'>
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/academicons.css">
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#1f65b8">
+<meta name="apple-mobile-web-app-title" content="DOWN2EARTH">
+<meta name="application-name" content="DOWN2EARTH">
+<meta name="theme-color" content="#ffffff">
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <div>
+        <img src="/assets/images/logo_small.png">
+        <a class="site-title" href="/">DOWN2EARTH Project</a>
+        </div>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/" >Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aims/" >Aims/Impact</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about_us/" >About Us</a>
+            </li><li class="masthead__menu-item">
+              <a href="/people/" >Team</a>
+            </li><li class="masthead__menu-item">
+              <a href="/outputs/" >Outputs</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/" >News/Blogs</a>
+            </li><li class="masthead__menu-item">
+              <a href="mailto:down2earth@cardiff.ac.uk" >Contact</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+  
+    <div class="author__avatar">
+      
+        <a href="http://down2earthproject.org/people/schrieks/"><img src="http://down2earthproject.org/assets/images/people/Schrieks.jpg" class="author__avatar" alt="Teun Schrieks" itemprop="image"></a>
+      
+    </div>
+  
+
+  <div class="author__content">
+    <a href="http://down2earthproject.org/people/schrieks/"><h3 class="author__name" itemprop="name">Teun Schrieks</h3></a>
+    
+      <p class="author__bio" itemprop="description">
+        IVM-VU PhD Student
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> 
+          <span itemprop="name"> Amsterdam, Netherlands </span>
+        </li>
+      
+      
+      
+        <li>
+          <a href="https://research.vu.nl/en/persons/teun-schrieks" itemprop="url">
+            <i class="fas fa-fw fa-globe" aria-hidden="true"></i> 
+              Website
+          </a>
+        </li>
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:teun.schrieks@vu.nl">
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
+            <meta itemprop="email" content="teun.schrieks@vu.nl" />
+            Email
+          </a>
+        </li>
+      
+      
+      
+      
+      
+      
+	  
+      
+        <li><a href="https://www.researchgate.net/profile/Teun_Schrieks" itemprop="sameAs">
+        <i class="ai ai-researchgate-square" aria-hidden="true" style="padding-left:3px;padding-right:3px"></i>
+          Research Gate
+        </a></li>
+      
+      
+        <li><a href="https://www.linkedin.com/in/teun-schrieks-939a32140" itemprop="sameAs">
+          <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> 
+          LinkedIn
+        </a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Designing an Agent-Based Model (ABM)">
+    <meta itemprop="description" content="New blog post by DOWN2EARTH Team Members, Ileen Streefkerk and Teun Schrieks.">
+    <meta itemprop="datePublished" content="April 07, 2021">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Designing an Agent-Based Model (ABM)
+</h1>
+          
+            <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Introduction to Agent-Based Models by <em>DOWN2EARTH</em> Team Members, <a href="/people/streefkerk/">Ileen Streefkerk</a> and <a href="/people/schrieks/">Teun Schrieks</a></p>
+
+<p>At <a href="https://www.ivm.vu.nl/">IVM-VU Amsterdam</a> we are developing an agent-based model to analyze the interactions and feedbacks between climatic stressors, human behavior and policy implementations in the three selected regions in Kenya, Ethiopia and Somaliland. Agent-based modelling is a type of computational modelling for simulations of actions and interactions of autonomous individuals (agents), which can capture the dynamic feedbacks between heterogeneous individuals and their environment. The central agent in our model will be the agro-pastoralists in the local communities of our case study regions. Our model will consist of four components: Individual decision-making, water &amp; land use, the environment and policies. In the individual decision-making component, we develop decision rules to simulate decision-making related to water and land use and adaptation to climate change. The decisions in the individual decision-making component feed into the water &amp; land use component which simulates the water requirements for crops, livestock and domestic water use.</p>
+
+<p><br /><br /><img src="/assets/images/ABM.png" alt="GHACOF_temperature" /><br /><br /></p>
+
+<p>The water &amp; land use and individual-decision making components will be coupled to the Climate into Useful Water And Land Information in Drylands (CUWALID) model. This hydrological model, developed by our colleagues at <a href="https://www.cardiff.ac.uk/earth-environmental-sciences">Cardiff University</a>, can simulate the water availability of the selected catchments by capturing relevant hydrological processes of dryland regions specifically. Information on water availability, from the CUWALID model, feeds into the decision-making component and influences the behavior of the agro-pastoralists. These changes in decision-making feed back into the CUWALID model through the water &amp; land use component, such that we can simulate dynamic interactions between human behavior and the environment. Finally, we will include the policy component. Based on the policy analysis of the policy development team and the data collection of the end-user-engagement-impact team we will define policy scenarios and the impact of policies in the local communities, which feeds into the individual decision-making component. The aim of our final model is to simulate the influence of different policy scenarios on the feedbacks between humans and their environment under different climate change scenarios.</p>
+
+<p>A challenge of agent-based modelling is that it requires several different types of empirical data to make sure that the model gives a realistic representation of reality. In the first stage of model development we develop a conceptual model which we aim to finish in autumn this year (2021). For this conceptual model we need to select the main agent types and parameters. This requires qualitative information on, among others, the main livelihoods in the local communities, the type of water and land use decisions, the main adaptation drivers and barriers and communication within communities and their social network and with the relevant government officials and NGOs in their region. The qualitative information will be gathered in the first stage of field work of the end-user-engagement-impact team. In a later stage of model development we need to calibrate and validate the model parameters, which requires more data on socio-economic and demographic characteristics, drivers of human behavior and the interaction between humans, water availability/climate stressors and policymakers. This information will be gathered in the second stage of data collection, through interviews and choice-experiments or economic field experiments in the local communities and interviews with local policymakers and NGOs.</p>
+
+        
+        
+
+        
+
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://down2earthproject.org/tags/#blog-posts" class="page__taxonomy-item" rel="tag">blog posts</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://down2earthproject.org/categories/#blogs" class="page__taxonomy-item" rel="tag">blogs</a>
+    
+    </span>
+  </p>
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-04-07T17:00:00-07:00">April 07, 2021</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=D2E_Project&text=Designing an Agent-Based Model (ABM) http://down2earthproject.org/2021/04/08/Streefkerk-Schrieks/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://down2earthproject.org/2021/04/08/Streefkerk-Schrieks/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://down2earthproject.org/2021/04/08/Streefkerk-Schrieks/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="http://down2earthproject.org/2021/03/25/Dave-MacLeod/" class="pagination--pager" title="Forecasting reflections from GHACOF 57
+">Previous</a>
+    
+    
+      <a href="http://down2earthproject.org/2021/05/14/Amiera-Sawas/" class="pagination--pager" title="De-colonising and gendering climate research in the DOWN2EARTH project? Our journey
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      
+        <h4 class="page__related-title">You May Also Enjoy</h4>
+      
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://down2earthproject.org/2023/11/09/D2E_GA_Amsterdam/" rel="permalink">DOWN2EARTH PhD student receives EGU award
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">DOWN2EARTH PhD student receives EGU award.
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://down2earthproject.org/2023/11/09/D2E_GA_Amsterdam/" rel="permalink">General Assembly in Amsterdam
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">DOWN2EARTH General Assembly held in Amsterdam to plan for final 16 months of the project.
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://down2earthproject.org/2023/11/09/BBC_MA_Award/" rel="permalink">Award for BBC Media Action
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">DOWN2EARTH consortium member BBC Media Action receives prestigious award.
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://down2earthproject.org/2022/03/14/Chris-Funk/" rel="permalink">Tailored forecasts for MAM
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  13 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">New blog post by DOWN2EARTH Advisory Board Member, Chris Funk
+</p>
+  </article>
+</div>
+        
+      </div>
+    </div>
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/D2E_Project"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+    
+    
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 DOWN2EARTH Project. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
