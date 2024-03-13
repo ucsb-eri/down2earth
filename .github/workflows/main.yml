@@ -10,17 +10,15 @@ jobs:
     runs-on: grit-web01
     steps:
     - name: Check out code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v
       with:
         fetch-depth: 0
 
-    - name: Setup Ruby and Jekyll
+    - name: Install Jekyll and dependencies
       run: |
-        # Ensure Ruby and Bundler are installed
-        # Install Jekyll if not already installed
-        gem install jekyll bundler
-        # Install project dependencies
-        bundle install
+       bundle config set --local path 'vendor/bundle' # Set the path to install gems locally within the project directory
+       bundle install # Install dependencies as specified in your Gemfile
+  
 
     - name: Build Jekyll site
       run: bundle exec jekyll build
