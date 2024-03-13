@@ -10,7 +10,7 @@ jobs:
     runs-on: grit-web01
     steps:
     - name: Check out code
-      uses: actions/checkout@v
+      uses: actions/checkout@4
       with:
         fetch-depth: 0
 
