@@ -2,13 +2,14 @@
 FROM jekyll/jekyll:latest as builder
 
 # Set working directory
+RUN mkdir /app && chown -R jekyll:jekyll /app
 WORKDIR /app
 
 # Copy your website source code to the container
 COPY . .
 
 # Install dependencies and build the website
-RUN bundle install
+RUN chmod -R 777 /app && bundle install
 RUN jekyll build
 
 # Use Nginx image to serve the website
