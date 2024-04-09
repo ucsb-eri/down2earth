@@ -25,7 +25,7 @@ jobs:
     - name: Install Jekyll and dependencies
       run: |
        bundle config set --local path 'vendor/bundle' # Set the path to install gems locally within the project directory
-       bundle install --jobs 4 --verbose# Install dependencies as specified in your Gemfile
+       bundle install --jobs 4 --verbose # Install dependencies as specified in your Gemfile
   
 
     - name: Build Jekyll site
