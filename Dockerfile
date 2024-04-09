@@ -20,4 +20,3 @@ COPY --from=builder /app/_site /usr/share/nginx/html
 
 # Expose port 80
 EXPOSE 80
-
