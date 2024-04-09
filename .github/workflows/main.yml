@@ -30,7 +30,7 @@ jobs:
 
     - name: Build Jekyll site
       run: bundle exec jekyll build
-      #   Ensure this command runs in the directory containing your Jekyll site's source code, if not root.
+      # Ensure this command runs in the directory containing your Jekyll site's source code, if not root.
 
     - name: Set up SSH
       run: |
