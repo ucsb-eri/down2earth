@@ -7,7 +7,7 @@ WORKDIR /app
 
 # Optimizing bundle install by caching gems
 COPY Gemfile Gemfile.lock ./
-RUN bundle config set --local path 'vendor/bundle' && bundle install --jobs 4
+RUN bundle config set --local path 'vendor/bundle' && bundle install --jobs 4 --verbose
 
 # Copy your website source code to the container
 COPY . .
