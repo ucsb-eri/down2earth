@@ -21,16 +21,14 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-          
+
     - name: Install Jekyll and dependencies
       run: |
-       bundle config set --local path 'vendor/bundle' # Set the path to install gems locally within the project directory
-       bundle install # Install dependencies as specified in your Gemfile
-  
+       bundle config set --local path 'vendor/bundle'
+       bundle install --jobs 4
 
     - name: Build Jekyll site
       run: bundle exec jekyll build
-      # Ensure this command runs in the directory containing your Jekyll site's source code, if not root.
 
     - name: Set up SSH
       run: |
@@ -43,8 +41,7 @@ jobs:
       run: |
         git config --global user.email "actions@github.com"
         git config --global user.name "GitHub Actions"
-        git remote add dokku dokku@grit-web02.grit.ucsb.edu:down2earth || git remote set-url dokku dokku@grit-web02.grit.ucsb.edu:down2earth
-        # Ensure the Git working directory is clean after Jekyll build
-        git add _site/* -f && git commit -m "Jekyll build for deployment"
+        git remote get-url dokku && git remote set-url dokku dokku@grit-web02.grit.ucsb.edu:down2earth || git remote add dokku dokku@grit-web02.grit.ucsb.edu:down2earth
+        git add _site/* -f && git commit -m "Jekyll build for deployment" || echo "No changes to commit"
         git push dokku +main:main
       working-directory: ./_site
