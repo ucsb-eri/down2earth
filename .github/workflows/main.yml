@@ -14,6 +14,14 @@ jobs:
       with:
         fetch-depth: 0
 
+    - name: Cache Ruby Gems
+      uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+          
     - name: Install Jekyll and dependencies
       run: |
        bundle config set --local path 'vendor/bundle' # Set the path to install gems locally within the project directory

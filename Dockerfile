@@ -5,18 +5,17 @@ FROM jekyll/jekyll:latest as builder
 RUN mkdir /app && chown -R jekyll:jekyll /app
 WORKDIR /app
 
+# Optimizing bundle install by caching gems
+COPY Gemfile Gemfile.lock ./
+RUN bundle config set --local path 'vendor/bundle' && bundle install --jobs 4
+
 # Copy your website source code to the container
 COPY . .
 
 # Install dependencies and build the website
-RUN chmod -R 777 /app && bundle install
 RUN jekyll build
 
 # Use Nginx image to serve the website
 FROM nginx:alpine
-
-# Copy the built website from the builder stage
 COPY --from=builder /app/_site /usr/share/nginx/html
-
-# Expose port 80
 EXPOSE 80
