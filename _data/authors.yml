@@ -1,0 +1,681 @@
+# Authors
+
+ Michael Singer:
+    name        : "Michael Bliss Singer"
+    bio         : "DOWN2EARTH Principal Investigator and CU Lead"
+    email       : "bliss@eri.ucsb.edu"
+    uri         : "http://singer.eri.ucsb.edu"
+    github      : "blissville71"
+    researchgate: "Michael_Singer23"
+    google_scholar: "LT_zsYAAAAAJ&hl"
+    orcid       : "0000-0002-6899-2224"
+    linkedin    : "michael-singer-632534194"
+    twitter     : "_blissville"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Singer.jpg"
+       
+ Ali Cotton:
+    name        : "Ali Cotton"
+    bio         : "Project Manager"
+    email       : "cottona2@cardiff.ac.uk"
+    linkedin    : "alison-cotton-388aa864"
+    twitter     : "AliJCotton"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Cotton.jpg"
+    
+ Isaac Kipkemoi:
+    name        : "Isaac Kipkemoi"
+    bio         : "UoB PhD Student"
+    email       : "ik17250@bristol.ac.uk"
+    google_scholar: "4x5iJYQAAAAJ"
+    twitter     : "kipkemoisaac"
+    linkedin    : "isaac-kipkemoi-13ba5951"
+    facebook    : "kipkemoi.isaac.77"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Kipkemoi.jpg"
+       
+ Andrés Quichimbo:
+    name        : "Andrés Quichimbo"
+    bio         : "CU Postdoctoral Researcher"
+    email       : "QuichimboMiguitamaEA@cardiff.ac.uk"
+    google_scholar: "LJk2XqgAAAAJ&hl=ru"
+    linkedin    : "andresquichimbo"
+    github      : "AndresQuichimbo"
+    twitter     : "QuichimboEA"
+    researchgate: "A_Quichimbo"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Quichimbo.jpg"
+        
+ Jacob Rigby:
+    name        : "Jacob Rigby"
+    bio         : "UoB Postdoctoral Researcher"
+    email       : "j.rigby@bristol.ac.uk"
+    google_scholar: "Jh0rbWgAAAAJ&hl=en"
+    linkedin    : "jacobrigby"
+    researchgate: "Jacob_Rigby"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Rigby.jpg"
+    
+ Dagmawi Asfaw:
+    name        : "Dagmawi Asfaw"
+    bio         : "UoB Postdoctoral Researcher"
+    email       : "d.t.asfaw@bristol.ac.uk"
+    google_scholar: "Sf7o9OAAAAAJ&hl=en"
+    linkedin    : "dagmawi-t-asfaw-0492046a"
+    researchgate: "Dagmawi_Asfaw"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Asfaw.jpg"
+    
+ David MacLeod:
+    name        : "David MacLeod"
+    bio         : "UoB Senior Research Associate"
+    email       : "david.macleod@bristol.ac.uk"
+    google_scholar: "5XtRzu8AAAAJ&hl=en"
+    linkedin    : "dave-macleod-74575a45"
+    twitter     : "davemacleod111"
+    researchgate: "David_Macleod7"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Macleod.jpg"
+    
+ Roger Few:
+    name        : "Roger Few"
+    bio         : "UEA Principal Investigator"
+    email       : "R.few@uea.ac.uk"
+    uri         : "https://people.uea.ac.uk/r_few"
+    twitter     : "few_roger"
+    researchgate: "Roger-Few-2100298842"
+    location    : "Norwich, UK"
+    avatar      : "assets/images/people/Few.jpg"
+    
+ Jeroen Aerts:
+    name        : "Jeroen Aerts"
+    bio         : "IVM-VU team member"
+    uri         : "https://research.vu.nl/en/persons/jcjh-aerts"
+    email       : "jeroen.aerts@vu.nl"
+    researchgate: "Jeroen_Aerts4"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/Aerts.jpg"
+
+ Owen Jones:
+    name        : "Owen Jones"
+    bio         : "CU team member"
+    email       : "JonesO18@cardiff.ac.uk"
+    uri         : "https://www.cardiff.ac.uk/people/view/556930-jones-owen"
+    researchgate: "Owen_Jones4"
+    google_scholar: "wyZ6MacAAAAJ&hl=en"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Jones.jpg"
+    
+ Ileen Streefkerk:
+    name        : "Ileen Streefkerk"
+    bio         : "IVM-VU PhD Student"
+    uri         : "https://research.vu.nl/en/persons/ileen-streefkerk"
+    email       : "ileen.streefkerk@vu.nl"
+    researchgate: "Ileen_Streefkerk"
+    github      : "istreefkerk"
+    linkedin    : "ileen-streefkerk-639215104"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/Streefkerk.jpg"
+ 
+ George Otieno:
+    name        : "George Otieno"
+    bio         : "ICPAC team member"
+    email       : "George.Otieno@igad.int"
+    researchgate: "George_Otieno5"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Otieno.jpg"
+    
+ Rhoda Odongo:
+    name        : "Rhoda Odongo"
+    bio         : "IVM-VU PhD Student"
+    uri         : "https://research.vu.nl/en/persons/rhoda-odongo"
+    email       : "r.a.odongo@vu.nl"
+    researchgate: "Rhoda_Odongo2"
+    linkedin    : "rhoda-odongo-71527336"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/Odongo.jpg"
+    
+ Diego Miralles:
+    name        : "Diego Miralles"
+    bio         : "UGent Principal Investigator"
+    email       : "diego.miralles@ugent.be"
+    uri         : "https://www.ugent.be/bw/environment/en/research/h-cel/staff/diego.htm"
+    researchgate: "Diego_Miralles2"
+    google_scholar: "UdQJsgcAAAAJ&hl=en"
+    linkedin    : "diego-miralles-ba188083"
+    location    : "Ghent, Belgium"
+    github      : "h-cel"
+    twitter     : "HCEL_Ghent"
+    avatar      : "assets/images/people/Miralles.jpg"
+    
+ Jessica Keune:
+    name        : "Jessica Keune"
+    bio         : "UGent Postdoctoral Researcher"
+    email       : "Jessica.Keune@UGent.be"
+    uri         : "https://www.ugent.be/bw/environment/en/research/h-cel/staff/jessica.htm"
+    researchgate: "Jessica_Keune"
+    google_scholar: "zHyAh9wAAAAJ&hl=en&oi=ao"
+    linkedin    : "jessica-keune-a0a4b11ba"
+    location    : "Ghent, Belgium"
+    avatar      : "assets/images/people/Keune.jpg"
+    
+ Mark Cuthbert:
+    name        : "Mark Cuthbert"
+    bio         : "CU Team Member"
+    email       : "cuthbertm2@cardiff.ac.uk"
+    uri         : "https://www.cardiff.ac.uk/people/view/617129-cuthbert-mark"
+    google_scholar: "8DSHWm0AAAAJ&hl=en"
+    twitter     : "markocuthbert"
+    researchgate: "M_Cuthbert"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Cuthbert.jpg"
+    
+ Oliver Wasonga:
+    name        : "Oliver Wasonga"
+    bio         : "UoN Principal Investigator"
+    uri         : "https://profiles.uonbi.ac.ke/oliverwasonga"
+    email       : "oliverwasonga@uonbi.ac.ke"
+    google_scholar: "IQVWjTIAAAAJ&view_op=list_works&sortby=pubdate"
+    researchgate: "Oliver_Wasonga"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Wasonga.jpg"
+    
+ Tim Busker:
+    name        : "Tim Busker"
+    bio         : "IVM-VU PhD Student"
+    email       : "tim.busker@vu.nl"
+    uri         : "https://research.vu.nl/en/persons/tim-busker"
+    linkedin    : "tim-busker-559769b7"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/Busker.jpg"
+    
+ Kieren Principal Investigatortts:
+    name        : "Kieren Principal Investigatortts"
+    bio         : "UoB Team Member"
+    email       : "Kieren.Principal Investigatortts@bristol.ac.uk"
+    uri         : "https://www.bristol.ac.uk/ilrt/people/kieren-m-Principal Investigatortts/index.html"
+    researchgate: "Kieren_Principal Investigatortts"
+    google_scholar: "kAHaldgAAAAJ&hl=en"
+    linkedin    : "kierenPrincipal Investigatortts"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Principal Investigatortts.jpg"
+    
+ Akash Koppa:
+    name        : "Akash Koppa"
+    bio         : "UGent Postdoctoral Researcher"
+    uri         : "https://www.ugent.be/bw/environment/en/research/h-cel/staff/akash.htm"
+    email       : "Akash.Koppa@UGent.be"
+    researchgate: "Akash_Koppa"
+    google_scholar: "624sMmsAAAAJ&hl=en&oi=ao"
+    location    : "Ghent, Belgium"
+    avatar      : "assets/images/people/Koppa.jpg"
+    
+ Abebe Tadege:
+    name        : "Abebe Tadege"
+    bio         : "ICPAC Principal Investigator"
+    email       : "atadege@icpac.net"
+    researchgate: "Abebe-Tadege-2120664912"
+    linkedin    : "abebe-tadege-tsehayu-65499219"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Tadege.jpg"
+    
+ Jeroen Claessen:
+    name        : "Jeroen Claessen"
+    bio         : "UGent PhD Student"
+    uri         : "https://www.ugent.be/bw/environment/en/research/h-cel/staff/jeroen.htm"
+    email       : "Jeroen.Claessen@UGent.be"
+    location    : "Ghent, Belgium"
+    avatar      : "assets/images/people/Claessen.jpg"
+    google_scholar: "e9kPV_gAAAAJ&hl=en"
+    researchgate: "Jeroen_Claessen2"
+    twitter     : "Jrn_Claessen"
+    
+ Toon Haer:
+    name        : "Toon Haer"
+    bio         : "IVM-VU Team Member"
+    uri         : "https://research.vu.nl/en/persons/toon-haer"
+    email       : "toon.haer@vu.nl"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/Haer.jpg"
+    google_scholar: "ghfKM-cAAAAJ&hl=nl"
+    researchgate: "Toon_Haer"
+    linkedin    : "toon-haer"
+    
+ Katerina Michaelides:
+    name        : "Katerina Michaelides"
+    bio         : "UoB Principal Investigator"
+    email       : "katerina.michaelides@bristol.ac.uk"
+    orcid       : "0000-0002-7996-0543"
+    uri         : "http://katerina.eri.ucsb.edu/"
+    github      : "KMichaelides"
+    google_scholar: "SW4AbDkAAAAJ&hl=en"
+    twitter     : "_kmichaelides"
+    linkedin    : "katerina-michaelides-3bb746154"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Michaelides.jpg"
+    
+ Mark Tebboth:
+    name        : "Mark Tebboth"
+    bio         : "UEA Team Member"
+    uri         : "https://people.uea.ac.uk/m_tebboth"
+    email       : "M.Tebboth@uea.ac.uk"
+    google_scholar: "NwMI0IEAAAAJ&hl=en"
+    twitter     : "marktebboth"
+    linkedin    : "mark-tebboth-526a8432"
+    location    : "Norwich, UK"
+    avatar      : "assets/images/people/Tebboth.jpg"
+    
+ Inga Menke:
+    name        : "Inga Menke"
+    bio         : "CA Principal Investigator"
+    email       : "inga.menke@climateanalytics.org"
+    uri         : "https://climateanalytics.org/about-us/team/inga-menke/"
+    researchgate: "Inga_Menke2"
+    linkedin    : "inga-menke-9a18aa27"
+    location    : "Berlin, Germany"
+    avatar      : "assets/images/people/Menke.jpg"
+    
+ Anne van Loon:
+    name        : "Anne van Loon"
+    bio         : "IVM-VU Principal Investigator"
+    uri         : "https://research.vu.nl/en/persons/anne-van-loon"
+    email       : "anne.van.loon@vu.nl"
+    researchgate: "Anne_Van_Loon2"
+    github      : "AnneVanLoon"
+    google_scholar: "WYBFQQwAAAAJ&hl=nl"
+    twitter     : "AnneVanLoon"
+    linkedin    : "anne-van-loon-39322962"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/vanLoon.jpg"
+    
+ Teun Schrieks:
+    name        : "Teun Schrieks"
+    bio         : "IVM-VU PhD Student"
+    uri         : "https://research.vu.nl/en/persons/teun-schrieks"
+    email       : "teun.schrieks@vu.nl"
+    researchgate: "Teun_Schrieks"
+    linkedin    : "teun-schrieks-939a32140"
+    location    : "Amsterdam, Netherlands"
+    avatar      : "assets/images/people/Schrieks.jpg"
+    
+ Flavian Muthusi:
+    name        : "Flavian Muthusi"
+    bio         : "FAO-SWALIM Team Member"
+    email       : "Flavian.Muthusi@fao.org"
+    researchgate: "Flavian_Muthusi"
+    twitter     : "FlavianMuthusi"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Muthusi.jpg"
+    
+ Daniel Schien:
+    name        : "Daniel Schien"
+    bio         : "UoB Team Member"
+    uri         : "http://www.bristol.ac.uk/engineering/people/daniel-schien/"
+    email       : "Daniel.Schien@bristol.ac.uk"
+    github      : "dschien"
+    google_scholar: "4C7fitQAAAAJ&hl=en"
+    linkedin    : "daniel-schien-31a0249"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Schien.jpg"
+    
+ Rafael Rosolem:
+    name        : "Rafael Rosolem"
+    bio         : "UoB Team Member"
+    email       : "Rafael.Rosolem@bristol.ac.uk"
+    linkedin    : "rafael-rosolem-86830763"
+    google_scholar: "8av0wkUAAAAJ&hl=en"
+    researchgate: "Rafael_Rosolem"
+    twitter     : "rosolemh2o"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Rosolem.jpg"
+    
+ Dan Hobley:
+    name        : "Dan Hobley"
+    bio         : "CU Team Member"
+    email       : "HobleyD@cardiff.ac.uk"
+    google_scholar: "kJ13b-kAAAAJ&hl=en"
+    researchgate: "Daniel_Hobley"
+    twitter     : "siccar_point"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Hobley.jpg"
+    
+ Dann Mitchell:
+    name        : "Dann Mitchell"
+    bio         : "UoB Team Member"
+    email       : "d.m.mitchell@bristol.ac.uk"
+    google_scholar: "AwFc88UAAAAJ&hl=en"
+    researchgate: "Dann-Mitchell-2134971303"
+    twitter     : "ClimateDann"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Mitchell.jpg"
+    
+ Lynn Morris:
+    name        : "Lynn Morris"
+    bio         : "BBC-MA Principal Investigator"
+    email       : "lynn.morris@ke.bbcmediaaction.org"
+    linkedin    : "lynn-morris-1249542a"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Morris.jpg"
+    
+ Peris Muchiri:
+    name        : "Peris Muchiri"
+    bio         : "FAO-SWALIM Principal Investigator"
+    email       : "Peris.Muchiri@fao.org"
+    twitter     : "perismuchiri"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Muchiri.jpg"
+    
+ Diana Njeru:
+    name        : "Diana Njeru"
+    bio         : "BBC-MA Team Member"
+    uri         : "http://www.deePrincipal Investigatorcted.com/"
+    email       : "diana.njeru@ke.bbcmediaaction.org"
+    linkedin    : "diana-njeru-62653779"
+    twitter     : "deenjeru"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Njeru.jpg"
+    
+ Chris Preist:
+    name        : "Chris Preist"
+    bio         : "UoB Team Member"
+    email       : "Chris.Preist@bristol.ac.uk"
+    uri         : "http://www.bris.ac.uk/engineering/people/chris-w-preist/index.html"
+    google_scholar: "rfoJfMgAAAAJ&hl=en"
+    researchgate: "Chris-Preist-2046628177"
+    linkedin    : "chris-preist-1b24811"
+    twitter     : "ChrisPreist"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Preist.jpg"
+    
+ Latif Ismail:
+    name        : "Latif Ismail"
+    bio         : "TS Principal Investigator"
+    email       : "latif.ismail@transparencysolutions.com"
+    linkedin    : "latif-ismail-462345155"
+    location    : "Hargeisa, Somalia"
+    avatar      : "assets/images/people/Ismail.jpg"
+    
+ Amiera Sawas:
+    name        : "Amiera Sawas"
+    bio         : "AA Principal Investigator"
+    email       : "Amiera.Sawas@actionaid.org"
+    uri         : "https://www.actionaid.org.uk/users/dr-amiera-sawas"
+    google_scholar: "hfcXsjsAAAAJ&hl=en"
+    linkedin    : "amierasawas"
+    twitter     : "@amiera_tales"
+    location    : "London, UK"
+    avatar      : "assets/images/people/Sawas.jpg"
+    
+ Hashi Hassan:
+    name        : "Hashi Hassan"
+    bio         : "AA Team Member"
+    email       : "Hashi.Abdillahi@actionaid.org"
+    linkedin    : "hashi-hassan-070b42a9"
+    location    : "Hargeisa, Somalia"
+    avatar      : "assets/images/people/hassan.jpg"
+    
+ Maike Schumacher:
+    name        : "Maike Schumacher"
+    bio         : "Aalborg-Plan Principal Investigator"
+    uri         : "https://vbn.aau.dk/da/persons/150148"
+    email       : "maikes@plan.aau.dk"
+    researchgate: "Maike_Schumacher"
+    google_scholar: "user=PAv94SQAAAAJ&hl=de"
+    orcid       : "0000-0003-3785-8118"
+    twitter     : "GeodesyAalborg"
+    linkedin    : "maike-schumacher-814307122"
+    location    : "Aalborg, Germany"
+    avatar      : "assets/images/people/Schumacher.jpg"
+    
+ Ehsan Forootan:
+    name        : "Ehsan Forootan"
+    bio         : "Aalborg-Plan Team Member"
+    uri         : "https://vbn.aau.dk/en/persons/149382"
+    email       : "efo@plan.aau.dk"
+    researchgate: "Ehsan_Forootan"
+    orcid       : "0000-0003-3055-041X"
+    google_scholar: "Yaor7_UAAAAJ&hl=en"
+    twitter     : "efideal"
+    linkedin    : "ehsanforootan"
+    location    : "Aalborg, Germany"
+    avatar      : "assets/images/people/Forootan.jpg"
+    
+ Mohammed Assen:
+    name        : "Mohammed Assen"
+    bio         : "AAU Principal Investigator"
+    uri         : "http://www.aau.edu.et/idpr/mohammed-assen/"
+    email       : "mohammed.assen@aau.edu.et"
+    researchgate: "Mohammed_Assen2"
+    orcid       : "0000-0002-3409-141X"
+    location    : "Addis Ababa, EthioPrincipal Investigatora"
+    avatar      : "assets/images/people/Assen.jpg"
+    
+ Winnie Khaemba:
+    name        : "Winnie Khaemba"
+    bio         : "Climatic Analytics Team Member"
+    email       : "winnie.khaemba@climateanalytics.org"
+    linkedin    : "winnie-asiti-khaemba-6b003618/"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Khaemba.jpg"
+    
+ Asmamaw Legass:
+    name        : "Asmamaw Legass"
+    bio         : "AAU Team Member"
+    uri         : "http://www.aau.edu.et/css/asmamaw-legass/"
+    email       : "asmamaw.legass@aau.edu.et"
+    researchgate: "Asmamaw_Bahir2"
+    linkedin    : "asmamaw-legass-bahir-3b8415b7"
+    location    : "Addis Ababa, EthioPrincipal Investigatora"
+    avatar      : "assets/images/people/Legass.jpg"
+    
+ Hosea Kandagor:
+    name        : "Hosea Kandagor"
+    bio         : "AA Team Member"
+    email       : "Hosea.Kandagor@actionaid.org"
+    linkedin    : "hosea-kandagor-91991966?originalSubdomain=ke"
+    location    : "Isiolo, Kenya"
+    avatar      : "assets/images/people/Kandagor.jpg"
+    
+ Mustafe Elmi:
+    name        : "Mustafe Elmi"
+    bio         : "TS Team Member"
+    uri         : "https://tesf.network/about-us/meet-the-team/mustafe-suleyman-elmi/"
+    email       : "mustafe.elmi@transparencysolutions.com"
+    linkedin    : "mustafe-suleyman-elmi-8a9b706b"
+    location    : "Hargeisa, Somalia"
+    avatar      : "assets/images/people/Elmi.jpg"
+    
+ Tsegaw Lencha:
+    name        : "Tsegaw Lencha"
+    bio         : "AA Team Member"
+    email       : "Tsegaw.Lencha@actionaid.org"
+    linkedin    : "tsegaw-lencha-3a73234a"
+    location    : "Addis Ababa, EthioPrincipal Investigatora"
+    avatar      : "assets/images/people/Lencha.jpg"   
+
+ Cynthia Asafi Wechabe:
+    name        : "Cynthia Asafi Wechabe"
+    bio         : "AA Team Member"
+    email       : "Cynthia.Wechabe@actionaid.org"
+    linkedin    : "cynthia-asafi-wechabe-b9a39546"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Wechabe.jpg" 
+    
+ Ahmed Aden Mohamed:
+    name        : "Ahmed Aden Mohamed"
+    bio         : "AA Team Member"
+    email       : "ahmed.adan@actionaid.org"
+    location    : "Hargeisa, Somaliland"
+    avatar      : "assets/images/people/Aden.jpg" 
+    
+ Erik Kolstad:
+    name        : "Erik Kolstad"
+    bio         : "Advisory Board Member"
+    uri         : "https://www.ewk.no"
+    email       : "ekol@norceresearch.no"
+    researchgate: "Erik-Kolstad"
+    google_scholar: "uHXa8jkAAAAJ"
+    twitter     : "erikwk"
+    linkedin    : "erikwkolstad"
+    location    : "Bergen, Norway"
+    avatar      : "assets/images/people/Kolstad.jpg"
+    
+ Tufa Dinku:
+    name        : "Tufa Dinku"
+    bio         : "Advisory Board Member"
+    uri         : "https://iri.columbia.edu/contact/staff-directory/tufa-dinku/"
+    email       : "tufa@iri.columbia.edu"
+    researchgate: "Tufa-Dinku"
+    google_scholar: "0ZTBiYYAAAAJ&hl=en"
+    linkedin    : "tufa-dinku-40a54b2b"
+    location    : "New York, USA"
+    avatar      : "assets/images/people/Dinku.jpg"
+    
+ Chris Funk:
+    name        : "Chris Funk"
+    bio         : "Advisory Board Member"
+    uri         : "https://www.chc.ucsb.edu/people/chris-funk"
+    email       : "chris@geog.ucsb.edu"
+    researchgate: "Chris-Funk-2093919147"
+    google_scholar: "q7sk2bAAAAAJ&hl=en"
+    twitter     : "climatehazards?lang=en"
+    linkedin    : "chris-funk-796b2482"
+    location    : "Santa Barbara, USA"
+    avatar      : "assets/images/people/Funk.jpg"
+    
+ Roberta Boscolo:
+    name        : "Roberta Boscolo"
+    bio         : "Advisory Board Member"
+    uri         : "https://www.wemcouncil.org/wp/team/roberta-boscolo/"
+    email       : "rboscolo@wmo.int"
+    researchgate: "Roberta-Boscolo"
+    twitter     : "boscoloroberta?lang=en"
+    linkedin    : "roberta-boscolo-89247216/?originalSubdomain=ch"
+    location    : "Geneva, Switzerland"
+    avatar      : "assets/images/people/Boscolo.jpg"
+    
+ Maurine Ambani:
+    name        : "Maurine Ambani"
+    bio         : "Advisory Board Member"
+    email       : "maurine.ambani@wfp.org"
+    researchgate: "Maurine-Ambani"
+    linkedin    : "maurine-ambani-2aa3a43a"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Ambani.jpg"
+    
+ Arame Tall:
+    name        : "Arame Tall"
+    bio         : "Advisory Board Member"
+    uri         : "https://www.worldbank.org/en/about/people/a/arame-tall"
+    email       : "atall2@worldbank.org"
+    researchgate: "Arame-Tall-2001019096"
+    twitter     : "dr_arametall?lang=en"
+    linkedin    : "arame-tall-63868410"
+    location    : "Washington, DC, USA"
+    avatar      : "assets/images/people/Tall.jpg"
+    
+ Sophie Rigg:
+    name        : "Sophie Rigg"
+    bio         : "Action Aid Principal Investigator"
+    uri         : "https://www.linkedin.com/in/riggsophie/"
+    email       : "Sophie.Rigg@actionaid.org"
+    twitter     : "RiggSophie"
+    linkedin    : "riggsophie"
+    location    : "London, UK"
+    avatar      : "assets/images/people/Rigg.jpg"
+    
+ Khalid Hassaballah:
+    name        : "Khalid Hassaballah"
+    bio         : "ICPAC Team Member"
+    email       : "Khalid.Hassaballah@igad.int"
+    google_scholar: "HI0kMTAAAAAJ"
+    orcid       : "0000-0003-2773-4285"
+    researchgate: "Khalid-Hassaballah"
+    linkedin    : "khalid-hassaballah-23417412"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Hassaballah.jpg"
+    
+ Raghuveer Vyas:
+    name        : "Raghuveer Vyas"
+    bio         : "CA Team Member"
+    email       : "raghuveer.vyas@climateanalytics.org"
+    linkedin    : "raghuveer-vyas"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Vyas.jpg"
+    
+ Katherine Cocking:
+    name        : "Katherine Cocking"
+    bio         : "CU PhD Student"
+    email       : "CockingK@cardiff.ac.uk"
+    twitter     : "KatsClimate"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Cocking.jpg"
+    
+ Nooshin Mehrnegar:
+    name        : "Nooshin Mehrnegar"
+    bio         : "Aalborg-Plan Postdoctoral Researcher"
+    email       : "MehrnegarN@cardiff.ac.uk"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Mehrnegar.jpg"
+    twitter     : "NMehrnegar"
+    linkedin    : "nooshin-mehrnegar-99baa8151"
+    researchgate: "Nooshin_Mehrnegar"
+    
+ Manuel Rios Gaona:
+    name        : "Manuel Rios Gaona"
+    bio         : "CU Postdoctoral Researcher"
+    email       : "RiosGaonaM@cardiff.ac.uk"
+    github      : "feliperiosg"
+    researchgate: "M-F-Rios-Gaona-2074926431"
+    google_scholar: "MLObfisAAAAJ&hl=en"
+    orcid       : "0000-0003-3717-1738"
+    linkedin    : "feliperiosg"
+    twitter     : "fel_lx"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/Rios.jpg"
+    
+ Toby Pitts:
+    name        : "Toby Pitts"
+    bio         : "D2E Project Manager"
+    email       : "pittst1@cardiff.ac.uk"
+    linkedin    : "toby-pitts-6b9394109"
+    location    : "Cardiff, UK"
+    avatar      : "assets/images/people/TPitts.jpg"
+    
+ Musonda Mumba:
+    name        : "Musonda Mumba"
+    bio         : "Advisory Board Member"
+    email       : "Musonda.X.Mumba@undp.org"
+    linkedin    : "dr-musonda-mumba-aa09611"
+    twitter     : "MumbaMusondam"
+    location    : "Rome, Italy"
+    avatar      : "assets/images/people/Mumba.jpg"
+    
+ Paolo Paron:
+    name        : "Paolo Paron"
+    bio         : "FAO-SWALIM PI"
+    email       : "Paolo.Paron@fao.org"
+    researchgate: "Paolo-Paron"
+    google_scholar: "dV17jYoAAAAJ&hl=en"
+    orcid       : "0000-0001-5625-9108"
+    linkedin    : "paolo-paron-0237832"
+    twitter     : "paron_paolo"
+    location    : "Nairobi, Kenya"
+    avatar      : "assets/images/people/Paron.jpg"
+    
+ George Blake:
+    name        : "George Blake"
+    bio         : "UoB PhD Student"
+    email       : "george.blake@bristol.ac.uk"
+    twitter     : "george_blakey"
+    location    : "Bristol, UK"
+    avatar      : "assets/images/people/Blake.jpg"
+    
+ Zahra Hdidou:
+    name        : "Zahra Hdidou"
+    bio         : "AA Lead"
+    email       : "Zahra.hdidou@actionaid.org"
+    linkedin    : "zahra-hdidou"
+    twitter     : "ZahraHdidou"
+    location    : "London, UK"
+    avatar      : "assets/images/people/Hdidou.jpg"

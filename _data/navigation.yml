@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Home"
+    url: ./
+  - title: "Aims/Impact"
+    url: ./aims/
+  - title: "About Us"
+    url: ./about_us/
+  - title: "Team"
+    url: ./people/
+  - title: "Outputs"
+    url: ./outputs/
+  - title: "News/Blogs"
+    url: ./recent/
+  - title: "Contact"
+    url: mailto:down2earth@cardiff.ac.uk
+
+

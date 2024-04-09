@@ -1,0 +1,19 @@
+  <!-- _includes/googleDrivePlayer.html -->
+  <head>
+    <title>My Page</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+</head>
+<center>
+  <strong>
+  <p></p>
+  <div class="embed-container">
+  <iframe
+      src="https://drive.google.com/file/d/{{ include.id }}"
+      allowfullscreen>
+  </iframe>
+</div>
+<p></p>
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+   </strong></center>

@@ -1,0 +1,29 @@
+---
+layout: splash
+permalink: /recent/
+title: "News and Blog Posts"
+author_profile: false
+type: 
+tag: 
+category: 
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/D2E_Texture01.jpg
+excerpt: 'News and posts from the _DOWN2EARTH_ Community.<br /><br />'
+---
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+	{% include archive-single.html %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+<br /><a href="https://ec.europa.eu/programmes/horizon2020/en">
+        <img src="/assets/images/H2020-EU-KOM.png" width="180" height="120"><br /><a href="https://cordis.europa.eu/project/id/869550">An EU Horizon 2020 Project funded under grant agreement No 869550</a>
+
+
+
+
