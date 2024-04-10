@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "_DOWN2EARTHTESTING_"
+title: "_DOWN2EARTH_"
 permalink: /
 author_profile: false
 header:
