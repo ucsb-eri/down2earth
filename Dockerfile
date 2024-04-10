@@ -13,7 +13,7 @@ RUN bundle config set --local path 'vendor/bundle' && bundle install --jobs 4 --
 COPY . .
 
 # Install dependencies and build the website
-RUN jekyll build --profile
+RUN jekyll build --incremental --profile
 
 # Use Nginx image to serve the website
 FROM nginx:alpine
