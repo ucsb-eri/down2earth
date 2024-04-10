@@ -8,7 +8,7 @@ header:
   overlay_image: ./assets/images/2463.jpg
   caption: "BBC Media Action"
   actions: 
-    - label: "Get In Touch1"
+    - label: "Get In Touch"
       url: "mailto:down2earth@cardiff.ac.uk?subject=DOWN2EARTH query"
     - label: "Latest news/blogs from DOWN2EARTH"
       url: "/recent/"
