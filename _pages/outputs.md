@@ -101,6 +101,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 ---
 
 ## Workshops/Events
+* [Policy Workshop - Nairobi](), Kenya, April 29 - May 3, 2024<br />
 * [Media Training Workshop On Climate Reporting - Isiolo](https://youtu.be/qiB594THyG0?si=lPJf4oP_sWkKFlMP), ICPAC/BCC Media Action, Isiolo, Kenya, 8-10/08/2023<br />
 * [Media Training Workshop On Climate Reporting - Hargeisa](https://youtu.be/BGZD8D1KYXY?si=LWzVEYauOuIeyTZi), ICPAC/BCC Media Action, Hargeisa, Somaliland, 28-30/08/2023<br />
 * [Media Training Workshop On Climate Reporting - Addis Ababa](https://youtu.be/mAGfnt6ENzM?si=JZSOvwOOmLpyFrUL), ICPAC/BCC Media Action, Addis Ababa, Ethiopia, 24-26/08/2023<br />
