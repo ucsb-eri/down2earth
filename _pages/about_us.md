@@ -9,7 +9,7 @@ header:
 excerpt: '14 institutions from 8 countries in 1 interdisciplinary team.<br /><br />' 
 ---
   <img src="/assets/images/Logos3.jpg" alt="D2E Consortium" class="responsive">
-<br /><br />**_DOWN2EARTH_ LUCASWASHEREassembles a multidisciplinary project team, composed of experts and specialists in social science, rural development, media communication, climate science, meteorology, environment, hydrology, policy analysis, GIS, remote sensing, computer science, decision-support, modelling, and dryland processes. Below is a description of our project organization and a list of consortium institutions.**  
+<br /><br />**_DOWN2EARTH_ assembles a multidisciplinary project team, composed of experts and specialists in social science, rural development, media communication, climate science, meteorology, environment, hydrology, policy analysis, GIS, remote sensing, computer science, decision-support, modelling, and dryland processes. Below is a description of our project organization and a list of consortium institutions.**  
 
 # Organization
 Efficient, fair, and participatory project management is critical to the success of large research and innovation effort such as _DOWN2EARTH_. Our project contains the following.     
