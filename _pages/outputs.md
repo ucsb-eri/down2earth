@@ -76,6 +76,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 * D6.2 Project videos/pamphlets (Task 6.1)<br />
 	* [DOWN2EARTH Promotional Video](https://www.youtube.com/watch?v=9g_06jBU-ag)<br />
 	* [What is a Forecast? Video on access and use of climate information in rural communities produced by BBC Media Action, supported by University of Bristol](https://youtu.be/BEPH8W6msV4)<br />
+	* [Living With Climate Change - Somalia](hhttps://youtu.be/4pjotcp5gAA?si=TANtKTpsnQ0CTUr2)<br />
 	* [DOWN2EARTH Project Pamphlet 1 - A4 informational sheet](https://www.canva.com/design/DAFHmtlR3_0/-cqnNWStHRYJLa7ESSqFnA/view?utm_content=DAFHmtlR3_0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#2)<br />
 	* [DOWN2EARTH Project Pamphlet 2 - foldable A5](https://www.canva.com/design/DAFLc-UFIA8/rzL9HX1i8fK7q6iNzQCKuw/view?utm_content=DAFLc-UFIA8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br />
 	* [DOWN2EARTH CUWALID Pamphlet 1 - A4](https://www.canva.com/design/DAF0UYMQh-o/EbFVQFyWJ3BVfSwA5642tQ/view?utm_content=DAF0UYMQh-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br />
@@ -86,6 +87,14 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 ## Podcasts
 
 * [Living Climate Change Africa - the podcast](https://www.bbc.co.uk/mediaaction/our-work/climate-change-resilience/living-climate-change-africa-podcast/?utm_source=ICPAC_NEWSLETTER&amp;utm_campaign=5f480a6118-EMAIL_CAMPAIGN_2019_02_25_06_47_COPY_01&amp;utm_medium=email&amp;utm_term=0_0ea0a0abaf-5f480a6118-)<br />
+
+---
+
+## Films
+
+* [DOWN2EARTH Promotional Video](https://www.youtube.com/watch?v=9g_06jBU-ag)<br />
+* [What is a Forecast? Video on access and use of climate information in rural communities produced by BBC Media Action, supported by University of Bristol](https://youtu.be/BEPH8W6msV4)<br />
+* [Living With Climate Change - Somalia](hhttps://youtu.be/4pjotcp5gAA?si=TANtKTpsnQ0CTUr2)<br />
 
 ---
 
