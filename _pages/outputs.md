@@ -84,6 +84,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 	* [DOWN2EARTH CUWALID Poster - A0](../assets/files/CUWALID_A0.pdf)<br />
 	* [DOWN2EARTH Feedback leaflet - A4](../assets/files/Feedback_General_Leaflet.pdf)<br />
 * D6.3 Communication and Dissemination Plan (Task 6.1)<br />
+	* [Communicating Project Outcomes from EU Horizon 2020 Sister Projects Workshop with European Commission](https://www.norceresearch.no/en/news/cooperation-that-goes-beyond-just-shaking-hands)
 
 ---
 
