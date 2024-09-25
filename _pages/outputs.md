@@ -138,7 +138,7 @@ Student and postdoc work denoted by *.
 31) *Busker, T., van den Hurk, B., de Moel, H., van den Homberg, M., van Straaten, C., Odongo, R.A., Aerts, J.C.J.H. (2024); Predicting Food-Security Crises in the Horn of Africa Using Machine Learning, _Earth's Future_, 12(8):e2023EF004211,
 doi:[10.1029/2023EF004211](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF004211). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Busker_etal_2024.pdf).
 
-30) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic decision-support tool for exploring the impacts of climate, and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
+30) *Rios Gaona, M.F., **Singer, M.B.**, *Asfaw, D.T., Michaelides, K. (2024); STORM v.2: A simple, stochastic rainfall model for exploring the impacts of climate and climate change at and near the land surface in gauged watersheds, _Geoscientific Model Development_, 17(13):5387-5412,
 doi:[10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/RiosGaona_etal_2024.pdf).
 
 29) MacLeod, D., Kolstad, E.W., Michaelides, K., Singer, M.B. (2024); Sensitivity of rainfall extremes to unprecedented Indian Ocean Dipole events, _Geophysical Research Letters_, 51(5), e2023GL105258, doi:[10.1029/2023GL105258](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL105258). [<span style="color:red">pdf</span>](../assets/pdfs/publications/MacLeod_etal_2024.pdf) 
