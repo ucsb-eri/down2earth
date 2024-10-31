@@ -255,7 +255,7 @@ Cuthbert, M., Quichimbo, E., Asfaw, D., MacLeod, D., Michaelides, K., Rosolem, R
 
 ---
 
-## Academic Non-Peer Review Publications
+## Academic Non-Peer Review Publications by DOWN2EARTH
 * MacLeod, D., Kolstad, E.W., Michaelides, K., Singer, M.B. (2024). [East Africa must prepare for more extreme rainfall during the short rainy season – new study](https://theconversation.com/east-africa-must-prepare-for-more-extreme-rainfall-during-the-short-rainy-season-new-study-218545), _The Conversation_, 3/11/2024.<br />
 
 * Singer, M.B. (2023). [Bringing climate forecasts down to Earth](https://issuu.com/euresearcher/docs/down2earth_eur36_h_res), _EU Research_, Winter 2023 vol. (37), pp. 21 - 23. [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_DOWN2EARTH_EUR36_H_Res_2024.pdf)<br />
@@ -268,7 +268,7 @@ Cuthbert, M., Quichimbo, E., Asfaw, D., MacLeod, D., Michaelides, K., Rosolem, R
 
 ---
 
-## Other Project Outputs
+## Other Project Outputs from DOWN2EARTH
 * [Inclusion of DOWN2EARTH hydrological modeling within ICPAC's East Africa Hazards Watch-Water Security Tab](https://eahazardswatch.icpac.net/map/ea)<br />
 
 * [Reporting on Climate Change - English Language Version](https://bbcmediaactionilearn.org/course/view.php?id=242), Massive Open Online Course (MOOC) supporting journalists to report on climate and climate change.<br /> 

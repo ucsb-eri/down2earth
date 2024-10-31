@@ -51,14 +51,8 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 ![Dagmawi Asfaw](../assets/images/people/Asfaw.jpg){:class="img-responsive"}<br>
 [Dagmawi Asfaw]({% link _people/asfaw.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
 
-![Isaac Kipkemoi](../assets/images/people/Kipkemoi.jpg){:class="img-responsive"}<br>
-[Isaac Kipkemoi]({% link _people/kipkemoi.md %}), PhD Student, [Climate/Water Data Team](../climate_water_data)<br>
-
 ![George Blake](../assets/images/people/Blake.jpg){:class="img-responsive"}<br>
 [George Blake]({% link _people/blake.md %}), PhD Student, [Climate/Water Data Team](../climate_water_data)<br>
-
-![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
-[Jacob Rigby]({% link _people/rigby.md %}), Postdoctoral Researcher, [App Development Team](../app_development)<br>
 
 ![Kieren Pitts](../assets/images/people/Pitts.jpg){:class="img-responsive"}<br>
 [Kieren Pitts]({% link _people/pitts.md %}), [App Development Team](../app_development)<br>
@@ -208,11 +202,17 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 ![Toby Pitts](../assets/images/people/TPitts.jpg){:class="img-responsive"}<br>
 [Toby Pitts]({% link _people/tpitts.md %}), _DOWN2EARTH_ Project Manager<br>
 
+![Jacob Rigby](../assets/images/people/Rigby.jpg){:class="img-responsive"}<br>
+[Jacob Rigby]({% link _people/rigby.md %}), Postdoctoral Researcher, [App Development Team](../app_development)<br>
+
 ![Akash Koppa](../assets/images/people/Koppa.jpg){:class="img-responsive"}<br>
 [Akash Koppa]({% link _people/koppa.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
 
 ![Jessica Keune](../assets/images/people/Keune.jpg){:class="img-responsive"}<br>
 [Jessica Keune]({% link _people/keune.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
+
+![Isaac Kipkemoi](../assets/images/people/Kipkemoi.jpg){:class="img-responsive"}<br>
+[Isaac Kipkemoi]({% link _people/kipkemoi.md %}), PhD Student, [Climate/Water Data Team](../climate_water_data)<br>
 
 ![Sophie Rigg](../assets/images/people/Rigg.jpg){:class="img-responsive"}<br>
 [Sophie Rigg]({% link _people/rigg.md %}), AA Principal Investigator, [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
