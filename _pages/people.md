@@ -218,16 +218,16 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 [Sophie Rigg]({% link _people/rigg.md %}), AA Principal Investigator, [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
 
 ![Peris Muchiri](../assets/images/people/Muchiri.jpg){:class="img-responsive"}<br>
-[Peris Muchiri]({% link _people/muchiri.md %}), Former FAO-SWALIM Principal Investigator, [Climate/Water Data Team](../climate_water_data)<br>
+[Peris Muchiri]({% link _people/muchiri.md %}), FAO-SWALIM Principal Investigator, [Climate/Water Data Team](../climate_water_data)<br>
 
 ![Ali Cotton](../assets/images/people/Cotton.jpg){:class="img-responsive"}<br>
-Ali Cotton, Former _DOWN2EARTH_ Project Manager
+Ali Cotton, _DOWN2EARTH_ Project Manager
 
 ![Tsegaw Lencha](../assets/images/people/Lencha.jpg){:class="img-responsive"}<br>
-Tsegaw Lencha, Former member of [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
+Tsegaw Lencha, Member of AA's [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
 
 ![Amiera Sawas](../assets/images/people/Sawas.jpg){:class="img-responsive"}<br>
-Amiera Sawas, Former AA Principal Investigator, [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
+Amiera Sawas, AA Principal Investigator, [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
 
 <br /><a href="https://ec.europa.eu/programmes/horizon2020/en">
         <img src="/assets/images/H2020-EU-KOM.png" width="180" height="120"><br /><a href="https://cordis.europa.eu/project/id/869550">An EU Horizon 2020 Project funded under grant agreement No 869550</a>
