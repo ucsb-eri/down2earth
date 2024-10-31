@@ -88,13 +88,13 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 
 ---
 
-## Podcasts
+## Podcasts Produced by DOWN2EARTH
 
 * [Living Climate Change Africa - the podcast](https://www.bbc.co.uk/mediaaction/our-work/climate-change-resilience/living-climate-change-africa-podcast/?utm_source=ICPAC_NEWSLETTER&amp;utm_campaign=5f480a6118-EMAIL_CAMPAIGN_2019_02_25_06_47_COPY_01&amp;utm_medium=email&amp;utm_term=0_0ea0a0abaf-5f480a6118-)<br />
 
 ---
 
-## Films
+## Films Produced by DOWN2EARTH
 
 * [DOWN2EARTH Promotional Video](https://www.youtube.com/watch?v=9g_06jBU-ag)<br />
 * [What is a Forecast? Video on access and use of climate information in rural communities produced by BBC Media Action, supported by University of Bristol](https://youtu.be/BEPH8W6msV4)<br />
@@ -102,7 +102,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 
 ---
 
-## Webinars
+## Webinars Organized by DOWN2EARTH
 
 * Webinar series on co-development and dissemination of climate information in Africa, hosted by ICPAC, DOWN2EARTH, CONFER, and FOCUS-Africa
 	* [Future of Climate Forecasting](https://www.icpac.net/events/the-future-of-weather-forecasting/), 13/07/2023<br />	
@@ -113,7 +113,10 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 
 ---
 
-## Workshops/Events
+## Workshops/Events Organized by DOWN2EARTH
+
+* [DOWN2EARTH Stakeholder Event](../assets/images/D2E_StakeholderMtg_2024.jpg), ICPAC, Nairobi, 28/10/2024<br />
+* [DOWN2EARTH Stakeholder Event](../assets/images/D2E_StakeholderMtg_2024b.jpg), OSSREA, Addis Ababa, 25/10/2024<br />
 * [Sister Projects Climate Services for Africa Policy Workshop](https://confer-h2020.eu/wp-content/uploads/2024/05/CONFER-Agenda_20June2024.pdf), Brussels, June 20, 2024<br />
 * [Policy Workshop - Nairobi](), Kenya, April 29 - May 3, 2024<br />
 * [Media Training Workshop On Climate Reporting - Isiolo](https://youtu.be/qiB594THyG0?si=lPJf4oP_sWkKFlMP), ICPAC/BCC Media Action, Isiolo, Kenya, 8-10/08/2023<br />
@@ -205,8 +208,10 @@ Resources Research_, 57, e2020WR028658, doi:[10.1029/2020WR028658](https://agupu
 
 --- 
 
-## Academic Conference Presentations by DOWN2EARTH
+## Conference Presentations and Seminars by DOWN2EARTH
 Student and postdoc work denoted by *. 
+
+Singer, M.B.: Lessons from DOWN2EARTH, [Stocktaking Conference on Climate Services for Risk Reduction in West Africa-CS4RRA](https://events.wascal.org/event/14/), Banjul, The Gambia, 5/11/2024<br />
 
 *Busker, T., van den Hurk, B., de Moel, H., van den Homberg, M., van Straaten, C.A. *Odongo, R., and C.J.H. Aerts, J.: Predicting Food-Security Crises in the Horn of Africa Using Machine Learning, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-4330, [https://doi.org/10.5194/egusphere-egu24-4330](https://doi.org/10.5194/egusphere-egu24-4330), 2024.
 

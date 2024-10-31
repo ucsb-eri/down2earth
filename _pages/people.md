@@ -18,9 +18,6 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 ![Michael Bliss Singer](../assets/images/people/Singer.jpg){:class="img-responsive"}<br>
 [Michael Bliss Singer]({% link _people/singer.md %}), _DOWN2EARTH_ Principal Investigator and CU Principal Investigator
 
-![Toby Pitts](../assets/images/people/TPitts.jpg){:class="img-responsive"}<br>
-[Toby Pitts]({% link _people/tpitts.md %}), _DOWN2EARTH_ Project Manager<br>
-
 ![Mark Cuthbert](../assets/images/people/Cuthbert.jpg){:class="img-responsive"}<br>[Mark Cuthbert]({% link _people/cuthbert.md %}), [Model Development Team](../model_development)
 
 ![Owen Jones](../assets/images/people/Jones.jpg){:class="img-responsive"}<br>[Owen Jones]({% link _people/jones.md %}), [Model Development Team](../model_development)
@@ -33,6 +30,9 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 
 ![Manuel Rios Gaona](../assets/images/people/Rios.jpg){:class="img-responsive"}<br>
 [Manuel Rios Gaona]({% link _people/rios.md %}), Postdoctoral Researcher, [Model Development Team](../model_development)
+
+![Isamar Cortes](../assets/images/people/Cortes.jpg){:class="img-responsive"}<br>
+[Isamar Cortes]({% link _people/cortes.md %}), Postdoctoral Researcher, [Model Development Team](../model_development)
 
 ![Katherine Cocking](../assets/images/people/Cocking.jpg){:class="img-responsive"}<br>
 [Katherine Cocking]({% link _people/cocking.md %}), PhD Student, [Climate/Water Data Team](../climate_water_data)<br>
@@ -96,12 +96,6 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 
 ![Diego Miralles](../assets/images/people/Miralles.jpg){:class="img-responsive"}<br>
 [Diego Miralles]({% link _people/miralles.md %}), UGent Principal Investigator, [Climate/Water Data Team](../climate_water_data)<br>
-
-![Akash Koppa](../assets/images/people/Koppa.jpg){:class="img-responsive"}<br>
-[Akash Koppa]({% link _people/koppa.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
-
-![Jessica Keune](../assets/images/people/Keune.jpg){:class="img-responsive"}<br>
-[Jessica Keune]({% link _people/keune.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
 
 ![Jeroen Claessen](../assets/images/people/Claessen.jpg){:class="img-responsive"}<br>
 [Jeroen Claessen]({% link _people/claessen.md %}), PhD Student, [Climate/Water Data Team](../climate_water_data)<br>
@@ -210,6 +204,15 @@ excerpt: 'An interdisciplinary, multinational team.<br /><br />'
 [Asmamaw Legass]({% link _people/legass.md %}), [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br> 
 
 ## DOWN2EARTH Alumni<br />
+
+![Toby Pitts](../assets/images/people/TPitts.jpg){:class="img-responsive"}<br>
+[Toby Pitts]({% link _people/tpitts.md %}), _DOWN2EARTH_ Project Manager<br>
+
+![Akash Koppa](../assets/images/people/Koppa.jpg){:class="img-responsive"}<br>
+[Akash Koppa]({% link _people/koppa.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
+
+![Jessica Keune](../assets/images/people/Keune.jpg){:class="img-responsive"}<br>
+[Jessica Keune]({% link _people/keune.md %}), Postdoctoral Researcher, [Climate/Water Data Team](../climate_water_data)<br>
 
 ![Sophie Rigg](../assets/images/people/Rigg.jpg){:class="img-responsive"}<br>
 [Sophie Rigg]({% link _people/rigg.md %}), AA Principal Investigator, [Community Research, Engagement, and Impact Team](../community_research_engagement_&_impact)<br>
