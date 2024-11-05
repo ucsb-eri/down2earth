@@ -90,7 +90,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 
 ## Podcasts Produced by DOWN2EARTH
 
-* [Living Climate Change Africa - the podcast](https://www.bbc.co.uk/mediaaction/our-work/climate-change-resilience/living-climate-change-africa-podcast/?utm_source=ICPAC_NEWSLETTER&amp;utm_campaign=5f480a6118-EMAIL_CAMPAIGN_2019_02_25_06_47_COPY_01&amp;utm_medium=email&amp;utm_term=0_0ea0a0abaf-5f480a6118-)<br />
+* [Living Climate Change Africa - the podcast](https://www.bbc.com/mediaaction/our-work/climate-change-resilience/living-climate-change-africa-podcast/)<br />
 
 ---
 
