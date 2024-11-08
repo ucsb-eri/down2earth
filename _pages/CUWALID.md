@@ -37,7 +37,7 @@ Before each GHACOF (3 times a year before each of the HAD's key rainy seasons), 
 ![image-center](/assets/images/CUWALID_forecasting_workflow.jpg){: .align-center}<br /><br />
 
 ## Delivering Useful Outputs to Various Users<br />
-Finally, we deliver the impact-based forecasts for each of five use cases through a desktop app designed for professionals/practitioners and through a Telegram chatbot designed for a less knowledgable user. The use cases are shown below.<br /><br />
+Finally, we deliver the impact-based forecasts for each of five use cases through a desktop app, [East Africa Hazards Watch](https://eahazardswatch.icpac.net/map/ea/), designed for professionals/practitioners and through our Telegram chatbot, [WujihaCast](https://t.me/wuhijacast), designed for a less knowledgable user. The use cases are shown below.<br /><br />
 ![image-center](/assets/images/CUWALID_use_cases.jpg){: .align-center}<br /><br />
 
 ## References<br />
