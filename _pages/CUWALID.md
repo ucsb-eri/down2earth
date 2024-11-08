@@ -9,7 +9,7 @@ header:
 excerpt: 'A new forecasting tool to support decision making.<br /><br />' 
 ---
   <img src="/assets/images/Logos3.jpg" alt="CUWALID" class="responsive">
-<br /><br />**_DOWN2EARTH_ created a new modeling system that converts climate forecasts into useful information on water and vegetation.**  
+<br /><br />**The EU-funded _DOWN2EARTH_ project has created a new modeling system that converts climate forecasts into useful information on water and vegetation to support decision making and planning at multiple levels of society.**  
 
 ## Brief Summary
 ![image-center](/assets/images/Esther_fetching_water3.jpg){: .align-center}<br /><br />
