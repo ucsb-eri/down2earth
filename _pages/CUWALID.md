@@ -30,16 +30,15 @@ The Climate Simulation module in CUWALID consists of two main components:<br />
 1. The STOchastic Rainstorm Model (STORM) simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing. The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). STORM generates total seasonal rainfall across subregions of the HAD that is consist with climatological data. The model can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast.<br /> 
 2. The STOchastic Potential Evapotranspiration model (stoPET) simulates spatially explicit fields of evaporative demand from the atmosphere to take up water from the land surface. The original data used for parameterization of stoPET comes from a global PET dataset we created in _DOWN2EARTH_ called hourly Potential EvapoTranspiration (hPET). stoPET generateds hourly values of PET for all of the HAD in a manner that respects the diurnal variations of solar radiation and heat build-up in the atmosphere through the day. The model can be straightforwardly adjusted to generate above normal or below normal seaonal temperature for specific areas of the HAD, based on the spatial map of ICPAC's tercile temperature forecast.<br /><br />
 ![image-center](/assets/images/Climate_Simulation.jpg){: .align-center}<br /><br />  
-
-## Representing Seasonal Rainfall and Temperature Forecasts<br />
-
-## Delivering Useful Outputs to Various Users<br />
-![image-center](/assets/images/CUWALID_use_cases.jpg){: .align-center}<br /><br />
+Together, these two stochastic models provide a range of randomized (stochastic) climatic forcing data which are consistent with ICPAC's tercile forecasts and are subsequently used to force the DRYP hydrological model. 
 
 ## Workflow at ICPAC<br />
+Before each GHACOF (3 times a year before each of the HAD's key rainy seasons), ICPAC generates seasonal objective tercile forecasts for temperature and rainfall. These forecasts are then filtered through STORM and stoPET to generate realistic spatial and temporal variations in rainfall and PET, respectively. The spatially explicit hourly time series of climatic forcing from these models are then combined to force the DRYP water balance model for the full length of the season. To characterize the uncertainty in the climatic forcing, we run an ensemble of 30 seasons and then generalize the outputs for all hydrological fluxes and stores, as well as vegetation indices. Next, we post-process the raw output data to obtain information summarized in five use cases characterizing the expected impacts of the seasonal climate forecast (see below).<br /><br /> 
 ![image-center](/assets/images/CUWALID_forecasting_workflow.jpg){: .align-center}<br /><br />
 
-
+## Delivering Useful Outputs to Various Users<br />
+Finally, we deliver the impact-based forecasts for each of five use cases through a desktop app designed for professionals/practitioners and through a Telegram chatbot designed for a less knowledgable user. The use cases are shown below.<br /><br />
+![image-center](/assets/images/CUWALID_use_cases.jpg){: .align-center}<br /><br />
 
 ## References<br />
 Singer, M.B., *Asfaw, D.T., Rosolem, R., Cuthbert, M.O., *Quichimbo, A., Miralles, D.G., MacLeod, D., Michaelides, K. (2021). Hourly potential evapotranspiration at 0.1˚ grid resolution for the global land surface from 1981-present, _Scientific Data_, 8(224), doi:[10.1038/s41597-021-01003-9](https://www.nature.com/articles/s41597-021-01003-9). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2021.pdf)  
