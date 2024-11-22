@@ -27,7 +27,14 @@ DRYP includes a surface layer that interacts with the atmospheric climatic forci
 
 ## The Climate Simulation Module<br>
 The Climate Simulation module in CUWALID consists of two main components:<br /> 
-1. The STOchastic Rainstorm Model (STORM) simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing. The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). STORM generates total seasonal rainfall across subregions of the HAD that is consist with climatological data. The model can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast.<br /> 
+1. The STOchastic Rainstorm Model (STORM) simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing.<br /><br />
+![image-center](/assets/images/STORM_parameters.jpg){: .align-center}<br /><br /> 
+The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). STORM generates total seasonal rainfall across subregions of the HAD that is consist with climatological data. 
+<br /><br />
+![image-center](/assets/images/STORM_animation.jpg){: .align-center}<br /><br /> 
+The model can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast.<br /><br />
+![image-center](/assets/images/STORM_forecast.jpg){: .align-center}<br /><br /> 
+STORM generates total seasonal rainfall across subregions of the HAD that is consist
 2. The STOchastic Potential Evapotranspiration model (stoPET) simulates spatially explicit fields of evaporative demand from the atmosphere to take up water from the land surface. The original data used for parameterization of stoPET comes from a global PET dataset we created in _DOWN2EARTH_ called hourly Potential EvapoTranspiration (hPET). stoPET generateds hourly values of PET for all of the HAD in a manner that respects the diurnal variations of solar radiation and heat build-up in the atmosphere through the day. The model can be straightforwardly adjusted to generate above normal or below normal seaonal temperature for specific areas of the HAD, based on the spatial map of ICPAC's tercile temperature forecast.<br /><br />
 ![image-center](/assets/images/Climate_Simulation.jpg){: .align-center}<br /><br />  
 Together, these two stochastic models provide a range of randomized (stochastic) climatic forcing data which are consistent with ICPAC's tercile forecasts and are subsequently used to force the DRYP hydrological model. 
