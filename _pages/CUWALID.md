@@ -46,7 +46,7 @@ Before each GHACOF (3 times a year before each of the HAD's key rainy seasons), 
 
 ## Delivering Useful Outputs to Various Users<br />
 Finally, we deliver the impact-based forecasts for each of five use cases through a desktop app, [East Africa Hazards Watch](https://eahazardswatch.icpac.net/map/ea/), designed for professionals/practitioners and through our Telegram chatbot, [WujihaCast](https://t.me/wuhijacast), designed for a less knowledgable user. The use cases are shown below.<br /><br />
-![image-center](/assets/images/CUWALID_use_cases.jpg){: .align-center}<br /><br />
+![image-center](/assets/images/CUWALID_use_cases.jpg){: .align-center}<br />
 
 ## References<br />
 Singer, M.B., *Asfaw, D.T., Rosolem, R., Cuthbert, M.O., *Quichimbo, A., Miralles, D.G., MacLeod, D., Michaelides, K. (2021). Hourly potential evapotranspiration at 0.1˚ grid resolution for the global land surface from 1981-present, _Scientific Data_, 8(224), doi:[10.1038/s41597-021-01003-9](https://www.nature.com/articles/s41597-021-01003-9). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Singer_etal_2021.pdf)  
