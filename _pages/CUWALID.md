@@ -19,7 +19,7 @@ Subsistence rural communities in the Horn of Africa Drylands (HAD), focused on l
 We developed a regional hydrological model called DRYP, which runs with forcing data on precipitation and evaporative demand. DRYP is a full water balance model, which means that it captures all the key fluxes and stores of water at and below the land surface.<br /><br />
 ![image-center](/assets/images/DRYP_schematic.jpg){: .align-center}<br /><br />
 DRYP runs at a time resolution of 1 hour and at a spatial resolution of 1 kilometer over a 2,000,000 km<sup>2</sup> area of the HAD.<br /><br /> 
-![image-center](/assets/images/CUWALID_model_domain.jpg){: .align-center}<br /><br />
+![image-center](/assets/images/CUWALID_model_domain.gif){: .align-center}<br /><br />
 The model is parameterized with gridded data for the region characterizing land cover, geology, soils, etc.<br /><br />
 ![image-center](/assets/images/DRYP_structure.jpg){: .align-center}<br /><br />
 DRYP includes a surface layer that interacts with the atmospheric climatic forcing, as well as with a subsurface (groundwater) layer. In addition to resolving all the key water balance fluxes (streamflow, infiltration, evapotranspiration, groundwater recharge), and stores (total groundwater storage, soil moisture, lakes), the model simulates: a) groundwater movement between regional aquifers; b) contributions from Rift Valley lakes to the HAD's groundwater system; c) emergent water bodies that fill up and subsequently dry up; and d) dynamic vegetation that varies seasonally in terms of canopy interception and transpiration.<br /><br />
