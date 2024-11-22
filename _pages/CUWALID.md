@@ -37,7 +37,7 @@ The model can be straightforwardly adjusted to generate above normal or below no
 ![image-center](/assets/images/stoPET_parameters.jpg){: .align-center}<br /><br />  stoPET generates hourly values of PET for all of the HAD in a manner that respects the diurnal variations of solar radiation and heat build-up in the atmosphere through the day.<br /><br />
 ![image-center](/assets/images/stoPET_results.jpg){: .align-center}<br /><br />  
 The model can be straightforwardly adjusted to generate above normal or below normal seaonal temperature for specific areas of the HAD, based on the spatial map of ICPAC's tercile temperature forecast.<br /><br />
-![image-center](/assets/images/stoPET_simulation.jpg){: .align-center}<br /><br />  
+![image-center](/assets/images/stoPET_forecast.jpg){: .align-center}<br /><br />  
 Together, these two stochastic models provide a range of randomized (stochastic) climatic forcing data which are consistent with ICPAC's tercile forecasts and are subsequently used to force the DRYP hydrological model. 
 
 ## Workflow at ICPAC<br />
