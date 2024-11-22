@@ -31,7 +31,7 @@ The Climate Simulation module in CUWALID consists of two main components:<br />
 ![image-center](/assets/images/STORM_parameters.jpg){: .align-center}<br /><br /> 
 The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). STORM generates total seasonal rainfall across subregions of the HAD that is consistent with climatological data. 
 <br /><br />
-![image-center](/assets/images/STORM_animation.jpg){: .align-center}<br /><br /> 
+![image-center](/assets/images/STORM_animation.gif){: .align-center}<br /><br /> 
 The model can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast.<br /><br />
 ![image-center](/assets/images/STORM_forecast.jpg){: .align-center}<br /><br /> 
 2. The STOchastic Potential Evapotranspiration model (stoPET) simulates spatially explicit fields of evaporative demand from the atmosphere to take up water from the land surface. The original data used for parameterization of stoPET comes from a global PET dataset we created in _DOWN2EARTH_ called hourly Potential EvapoTranspiration (hPET). stoPET generateds hourly values of PET for all of the HAD in a manner that respects the diurnal variations of solar radiation and heat build-up in the atmosphere through the day. The model can be straightforwardly adjusted to generate above normal or below normal seaonal temperature for specific areas of the HAD, based on the spatial map of ICPAC's tercile temperature forecast.<br /><br />
