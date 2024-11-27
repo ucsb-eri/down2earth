@@ -27,13 +27,13 @@ DRYP includes a surface layer that interacts with the atmospheric climatic forci
 
 ## The Climate Simulation Module<br>
 The Climate Simulation module in CUWALID consists of two main components:<br /> 
-1. The STOchastic Rainstorm Model (STORM) simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing.<br /><br />
+Component one is the STOchastic Rainstorm Model (STORM), which simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing.<br /><br />
 ![image-center](/assets/images/STORM_parameters.jpg){: .align-center}<br /><br /> 
 The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). STORM generates total seasonal rainfall across subregions of the HAD that is consistent with climatological data.<br /><br />
 ![image-center](/assets/images/STORM_animation.gif){: .align-center}<br /><br /> 
 The model can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast. The image below shows rainfall forecasts for the OND2022 (left) and MAM2022 (right) seasons, where the tercile rainfall forecast from ICPAC is shown in the bottom right panel and the STORM-simulated rainfall totals are shown in the bottom left panel.<br /><br />
 ![image-center](/assets/images/STORM_forecast.jpg){: .align-center}<br /><br /> 
-2. The STOchastic Potential Evapotranspiration model (stoPET) simulates spatially explicit fields of evaporative demand from the atmosphere to take up water from the land surface. The original data used for parameterization of stoPET comes from a global PET dataset we created in _DOWN2EARTH_ called hourly Potential EvapoTranspiration (hPET). stoPET generates diurnal and seaonsal variations in PET that match those in the historical dataset (hPET). Below see a climatological comparison between hPET and stoPET.<br /><br />
+Component two is the STOchastic Potential Evapotranspiration model (stoPET), which simulates spatially explicit fields of evaporative demand from the atmosphere to take up water from the land surface. The original data used for parameterization of stoPET comes from a global PET dataset we created in _DOWN2EARTH_ called hourly Potential EvapoTranspiration (hPET). stoPET generates diurnal and seaonsal variations in PET that match those in the historical dataset (hPET). Below see a climatological comparison between hPET and stoPET.<br /><br />
 ![image-center](/assets/images/hPET_stoPET_Africa.jpg){: .align-center}<br /><br />  
 stoPET generates hourly values of PET for all of the HAD in a manner that respects the diurnal variations of solar radiation and heat build-up in the atmosphere through the day.<br /><br />
 ![image-center](/assets/images/stoPET_results.gif){: .align-center}<br /><br />  
