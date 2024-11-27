@@ -37,9 +37,9 @@ Component two is the STOchastic Potential Evapotranspiration model (stoPET), whi
 ![image-center](/assets/images/hPET_stoPET_Africa.jpg){: .align-center}<br /><br />  
 stoPET generates hourly values of PET for all of the HAD in a manner that respects the diurnal variations of solar radiation and heat build-up in the atmosphere through the day.<br /><br />
 ![image-center](/assets/images/stoPET_results.gif){: .align-center}<br /><br />  
-The model can be straightforwardly adjusted to generate above normal or below normal seaonal temperature for specific areas of the HAD, based on the spatial map of ICPAC's tercile temperature forecast.<br /><br />
+The model can be straightforwardly adjusted to generate above normal or below normal seaonal temperature for specific areas of the HAD, based on the spatial map of ICPAC's tercile temperature forecast. See example for OND2024 below.<br /><br />
 ![image-center](/assets/images/ICPAC_Tforecast_OND2024.jpg){: .align-center}<br /><br />  
-The model then uses the appropriate balance of these tercile temperature forecasts to generate the corresponding simulations of PET for the region.<br /><br /> 
+stoPET then uses the appropriate balance of these tercile temperature forecasts to generate the corresponding simulations of PET for the region. See example for OND2024 below.<br /><br /> 
 ![image-center](/assets/images/stoPET_forecast_OND2024.jpg){: .align-center}<br /><br />  
 Together, these two stochastic models provide a range of randomized (stochastic) climatic forcing data which are consistent with ICPAC's tercile forecasts and are subsequently used to force the DRYP hydrological model. 
 
