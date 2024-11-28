@@ -31,8 +31,10 @@ DRYP includes a surface layer that interacts with the atmospheric climatic forci
 The Climate Simulation module in CUWALID consists of two main components:<br /><br /> 
 Component one is the STOchastic Rainstorm Model (STORM), which simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing.<br /><br />
 ![image-center](/assets/images/STORM_parameters.jpg){: .align-center}<br /><br /> 
-The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). Below is an example of GIRHAF for part of the month of November 2019.<br /><br /> 
-![image-center](/assets/images/GIRHAF_movie.mp4){: .align-center}<br /><br /> 
+The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). Below is an example of GIRHAF for the month of November 2019.<br /><br /> 
+<video controls>
+  <source src="/assets/images/GIRHAF_movie.mp4" type="video/mp4">
+</video><br /><br /> 
 STORM generates individual storms with realistic characteristics (intensity, speed, area) that result in output of total seasonal rainfall across subregions of the HAD that is consistent with climatological data.<br /><br />
 ![image-center](/assets/images/STORM_animation.gif){: .align-center}<br /><br /> 
 STORM can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast. The image below shows rainfall forecasts for the OND 2022 (left) and MAM 2022 (right) seasons, where the tercile rainfall forecast from ICPAC is shown in the bottom right panel and the STORM-simulated rainfall totals are shown in the bottom left panel, which may be compared to the historical average for that season in the top left panel.<br /><br />
