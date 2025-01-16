@@ -23,11 +23,8 @@ Based on research done in _DOWN2EARTH_, we have learned that people at different
 Finally, we deliver the impact-based forecasts for each of five use cases through our Telegram chatbot, [WujihaCast](https://t.me/wuhijacast). The use cases are Crop Status, Pasture/Browse Status, Surface Water Status, Groundwater Status, and Flood Hazard. Outputs delivered through WujihaCast are summarized for different geographic units of relevance (counties in Kenya, zones in Ethiopia, and regions in Somalia). Maps contain the most detailed information and the user can zoom in to see outputs within the country/zone/region of interest at the full spatial resolution of the model (1 km). The chatbot provides capability for all its interactions in multiple languages (Oromo, Amharic, English, Somali, and Swahili) and delivers outputs in 4 different formats: Maps, Images, Voice Notes, and Text. Below you can see an example of the set of tercile forecast images for each of the five use cases.<br /><br />
 ![image-center](/assets/images/Glyph_set2_labeled.png){: .align-center .width-half}<br /> 
 
-<figure>
-  <figcaption>And here is an example of a voice note (English for Groundwater Status-Below Normal):</figcaption>
-  <audio controls src="  <source src="/assets/images/GROUNDWATER STATUS_BELOW NORMAL.mp3" type="audio/mp3"></audio>
-</figure>
-
+And here is an example of a voice note (English for Groundwater Status-Below Normal):<br /> 
+  <audio><audio controls src="/assets/images/GROUNDWATER STATUS_BELOW NORMAL.mp3" type="audio/mp3"></audio>
 
 And here is the associated text for that forecast:<br />
 "Groundwater Status-Below Normal: This season is expected to be drier than normal. This may lead to lower water levels in wells in your area, with some shallower wells going completely dry. It also may mean that deeper depths are required to reach available water in hand-dug wells near river channels. Consider planning ahead to identify deeper wells in your area to support drinking water needs for both people and livestock. Note that groundwater depths will vary across the area and there is uncertainty in any seasonal forecast."
