@@ -5,7 +5,7 @@ permalink: /WujihaCast/
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: ./assets/images/D2E_Texture05.jpg
+  overlay_image: ./assets/images/D2E_Texture09.jpg
 excerpt: 'An information source for learning about the potential impact of seasonal forecasts.<br /><br />' 
 ---
   <img src="/assets/images/Logos3.jpg" alt="CUWALID" class="responsive">
@@ -34,7 +34,9 @@ And here is the associated text for that forecast:<br />
 Finally, here is an example of a map showing Groundwater Status for Isiolo county in Kenya.
 ![image-center](/assets/images/Glyph_set2_labeled.png){: .align-center}<br />
 
-WujihaCast users can request multiple types of information from each use case and/or format. They can also allow the chatbot to detect their current location to find the most appropriate county (Kenya), zone (Ethiopia), or region (Somalia). Alternatively, the user can select their desired country and and subnational unit from the prompts. The current version of the chatbot is built for Telegram and is hosted at ICPAC. It is possible that the chatbot could be adapted for other social media platforms in future (e.g., WhatsApp). 
+WujihaCast users can request multiple types of information from each use case and/or format. They can also allow the chatbot to detect their current location to find the most appropriate county (Kenya), zone (Ethiopia), or region (Somalia). Alternatively, the user can select their desired country and and subnational unit from the prompts. The current version of the chatbot is built for Telegram and is hosted at ICPAC. It is possible that the chatbot could be adapted for other social media platforms in future (e.g., WhatsApp).<br />
+
+If you have used the chatbot and would like to provide feedback, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSePWJtR5W03fG2Mv5SmDgAryx2DuzqJi172a3LYtrqYbdQWeQ/viewform?usp=dialog). This feedback will ideally help us continue to improve this climate service.
 
 <br /><a href="https://ec.europa.eu/programmes/horizon2020/en">
         <img src="/assets/images/H2020-EU-KOM.png" width="180" height="120"><br /><a href="https://cordis.europa.eu/project/id/869550">An EU Horizon 2020 Project funded under grant agreement No 869550</a>
