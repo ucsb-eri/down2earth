@@ -11,7 +11,7 @@ excerpt: 'An information source for learning about the potential impact of seaso
   <img src="/assets/images/Logos3.jpg" alt="CUWALID" class="responsive">
 <br /><br />**The EU-funded _DOWN2EARTH_ project has created a chatbot that delivers impact-based seasonal forecasts into useful information on water and vegetation to support decision making and planning at multiple levels of society.**  
 
-![image-center](/assets/images/WUJIHA_Logo.png){: .align-center}<br /><br />
+![image-center](/assets/images/WUJIHA_Logo.png){: .align-center .width-half}<br /><br />
 ## Brief Summary
 Many stakeholders in the Horn of Africa Drylands (HAD), focused on large areas of Ethiopia, Somalia, and Kenya, require information on the potential impact of key rainy seasons on their lives and livelihoods. This information can also support government planning and intervention work by NGOs to provide humanitarian assistance to those most at risk of expected climatic hazards. Seasonal climate forecasts are often used to plan for expected climatic hazards and associated risks to human society, and are delivered in outlook forums, such as the [IGAD Climate Prediction and Applications Center's](https://www.icpac.net/) Greater Horn of Africa Climate Outlook Forum (GHACOF). The _DOWN2EARTH_ project has developed a new modeling system that translates seasonal (and subseasonal) climate forecasts into information on water and vegetation that more directly supports decision making. We call it [Climate into Useful Water and Land Information in Drylands (CUWALID)](https://down2earthproject.org/CUWALID/). To deliver this useful information to various audiences and thus democratize the flow of climate information, we have developed a new chatbot that currently operates on Telegram, but which could be adapted to other social media platforms. It is called the [WujihaCast chatbot](https://t.me/wujihacast), and it provides various forms of information about the upcoming or current rainy season in the HAD in multiple languages.<br /><br /> 
 
@@ -23,10 +23,11 @@ Based on research done in _DOWN2EARTH_, we have learned that people at different
 Finally, we deliver the impact-based forecasts for each of five use cases through our Telegram chatbot, [WujihaCast](https://t.me/wuhijacast). The use cases are Crop Status, Pasture/Browse Status, Surface Water Status, Groundwater Status, and Flood Hazard. Outputs delivered through WujihaCast are summarized for different geographic units of relevance (counties in Kenya, zones in Ethiopia, and regions in Somalia). Maps contain the most detailed information and the user can zoom in to see outputs within the country/zone/region of interest at the full spatial resolution of the model (1 km). The chatbot provides capability for all its interactions in multiple languages (Oromo, Amharic, English, Somali, and Swahili) and delivers outputs in 4 different formats: Maps, Images, Voice Notes, and Text. Below you can see an example of the set of tercile forecast images for each of the five use cases.<br /><br />
 ![image-center](/assets/images/Glyph_set2_labeled.png){: .align-center .width-half}<br /> 
 
-And here is an example of a voice note (English for Groundwater Status-Below Normal):
-<audio controls>
-  <source src="GROUNDWATER STATUS_BELOW NORMAL.mp3" type="audio/mp3">
-</audio>
+<figure>
+  <figcaption>And here is an example of a voice note (English for Groundwater Status-Below Normal):</figcaption>
+  <audio controls src="  <source src="/assets/images/GROUNDWATER STATUS_BELOW NORMAL.mp3" type="audio/mp3"></audio>
+</figure>
+
 
 And here is the associated text for that forecast:<br />
 "Groundwater Status-Below Normal: This season is expected to be drier than normal. This may lead to lower water levels in wells in your area, with some shallower wells going completely dry. It also may mean that deeper depths are required to reach available water in hand-dug wells near river channels. Consider planning ahead to identify deeper wells in your area to support drinking water needs for both people and livestock. Note that groundwater depths will vary across the area and there is uncertainty in any seasonal forecast."
