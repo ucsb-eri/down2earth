@@ -17,11 +17,11 @@ Many stakeholders in the Horn of Africa Drylands (HAD), focused on large areas o
 
 ## A Chatbot for Delivery of Seasonal Forecasts<br>
 Based on research done in _DOWN2EARTH_, we have learned that people at different levels of society require different types of information delivered in different forms in order to support their seasonal decisions. Some might prefer images, others might want maps, and others might want to read text or listen to a friendly voice delivering the forecast. Additionally, some might want information on crops or pasture, while others care about water availability for humans and livestock. These are all derived from our [CUWALID model](https://down2earthproject.org/CUWALID/), by simulating the relevant impacts expected from ICPAC's tercile seasonal climate forecasts (rainfall and temperature). We then provide this post-process the output from CUWALID across the HAD. We also translate all the outputs to support 5 languages. The figure below shows how the system operates through interactions with a user.<br /><br />
-![image-center](/assets/images/chatbot-flow-diagram.png){: .align-center}<br /><br />      
+![image-center](/assets/images/chatbot-flow-diagram.png){: .align-center .width-full}<br /><br />      
 
 ## Democratizing and Simplifying Climate Information<br />
 Finally, we deliver the impact-based forecasts for each of five use cases through our Telegram chatbot, [WujihaCast](https://t.me/wuhijacast). The use cases are Crop Status, Pasture/Browse Status, Surface Water Status, Groundwater Status, and Flood Hazard. Outputs delivered through WujihaCast are summarized for different geographic units of relevance (counties in Kenya, zones in Ethiopia, and regions in Somalia). Maps contain the most detailed information and the user can zoom in to see outputs within the country/zone/region of interest at the full spatial resolution of the model (1 km). The chatbot provides capability for all its interactions in multiple languages (Oromo, Amharic, English, Somali, and Swahili) and delivers outputs in 4 different formats: Maps, Images, Voice Notes, and Text. Below you can see an example of the set of tercile forecast images for each of the five use cases.<br /><br />
-![image-center](/assets/images/Glyph_set2_labeled.png){: .align-center}<br />
+![image-center](/assets/images/Glyph_set2_labeled.png){: .align-center .width-half}<br /> 
 
 And here is an example of a voice note (English for Groundwater Status-Below Normal):
 <audio controls>
