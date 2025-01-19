@@ -26,7 +26,7 @@ Finally, we deliver the impact-based forecasts for each of five use cases throug
 And here is an example of a voice note (English for Groundwater Status-Below Normal):<br /> 
   <audio controls>
   <source src="/assets/images/GROUNDWATER STATUS_BELOW NORMAL.mp3" type="audio/mp3">
-</audio>
+</audio><br /> 
 
 And here is the associated text for that forecast:<br />
 "Groundwater Status-Below Normal: This season is expected to be drier than normal. This may lead to lower water levels in wells in your area, with some shallower wells going completely dry. It also may mean that deeper depths are required to reach available water in hand-dug wells near river channels. Consider planning ahead to identify deeper wells in your area to support drinking water needs for both people and livestock. Note that groundwater depths will vary across the area and there is uncertainty in any seasonal forecast."<br />

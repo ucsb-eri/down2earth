@@ -34,14 +34,17 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 * D3.1 CUWALID model for water and food insecurity in drylands (Task 3.1)<br />
 	* **Publication on model for simulating atmospheric evaporative demand:** doi:[10.5194/gmd-16-557-2023](https://gmd.copernicus.org/articles/16/557/2023/).
 	* **Publication on model for simulating hydrology at basin scales:** doi:[10.5194/gmd-2021-137](https://gmd.copernicus.org/articles/14/6893/2021/).
-	* **Publication on model for simulating rainfall:** doi:[10.5194/gmd-2023-98](https://gmd.copernicus.org/preprints/gmd-2023-98/)
+	* **Publication on model for simulating rainfall:** [10.5194/gmd-17-5387-2024](https://gmd.copernicus.org/articles/17/5387/2024/)
+	* **CUWALID model:** [webpage](https://down2earthproject.org/CUWALID/).
 * D3.2 Report on modeled HAD water/food derived from seasonal forecasts (Task 3.2)<br />
 	* **Publication on anticipatory action:** doi:[10.1016/j.crm.2021.100375](https://doi.org/10.1016/j.crm.2021.100375).
 	* **Publication on seasonal forecasts:** doi:[10.1371/journal.pclm.0000138](https://doi.org/10.1371/journal.pclm.0000138).
+	* **CUWALID model forecasting workflow:** [webpage](https://down2earthproject.org/CUWALID/).
 * D3.3 Report on trends in historical HAD water/food using CUWALID (Task 3.1)<br />
 * D3.4 Report on long-term projections of water/food in HAD for climate services (Task 3.3)<br />
 * D3.5 Digital technologies for water/food forecasts to end-users (Task 3.4)<br />
 	* **Publication on user-centric technologies:** doi:[10.1145/3544548.3580663](https://doi.org/10.1145/3544548.3580663).
+	* **WujihaCast Chatbot for democratizing impact-based climate services delivery:** [webpage](https://down2earthproject.org/WujihaCast/); [Telegram chatbot](https://t.me/wujihacast).
 * D3.6 Report on digital technologies design, development, implementation (Task 3.4)<br />
 	* **Publication on climate services engagement:** doi:[10.1080/17565529.2022.2074350](https://www.tandfonline.com/doi/full/10.1080/17565529.2022.2074350?src=).
 
@@ -63,8 +66,11 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 * D4.6 Inclusion of CUWALID-based forecasts in early warning systems (Task 4.3)<br />
 	* [Inclusion of DOWN2EARTH hydrological model outputs within ICPAC's East Africa Hazards Watch-Water Security Tab](https://eahazardswatch.icpac.net/map/ea)<br />
 	* Installation of CUWALID at ICPAC
+	* Employment of CUWALID at ICPAC for impact-based forecasts of MAM 2025 and delivery of outputs at GHACOF 69 and through ICPAC-hosted WujihaCast
 * D4.7 Technical workshops on CUWALID for stakeholders (Task 4.2)<br />
 	* CUWALID Workshop for Stakeholders, ICPAC, Nairobi, Kenya, 27/11/2023<br /> 
+	* CUWALID Workshop for ICPAC, ICPAC, Nairobi, Kenya, 10/06/2024 - 14/06/2024<br /> 
+	* CUWALID Workshop for Stakeholders, ICPAC, Addis Ababa, Ethiopia, 22/01/2025 - 23/01/2025<br /> 
 * D4.8 Report on future-proof climate adaptation/reslience policy framework (Task 4.4)<br />
 * D4.9 Regional and international policy engagement workshops (Task 4.4)<br />
 
