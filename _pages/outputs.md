@@ -67,6 +67,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 	* [Inclusion of DOWN2EARTH hydrological model outputs within ICPAC's East Africa Hazards Watch-Water Security Tab](https://eahazardswatch.icpac.net/map/ea)<br />
 	* Installation of CUWALID at ICPAC
 	* Employment of CUWALID at ICPAC for impact-based forecasts of MAM 2025 and delivery of outputs at GHACOF 69 and through ICPAC-hosted WujihaCast
+	* Summary of Regional Decision Makers Workshop, 23/01/2025](https://www.africandemystifier.com/how-igads-down2earth-project-addressing/)
 * D4.7 Technical workshops on CUWALID for stakeholders (Task 4.2)<br />
 	* CUWALID Workshop for Stakeholders, ICPAC, Nairobi, Kenya, 27/11/2023<br /> 
 	* CUWALID Workshop for ICPAC, ICPAC, Nairobi, Kenya, 10/06/2024 - 14/06/2024<br /> 
@@ -104,7 +105,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 
 * [DOWN2EARTH Promotional Video](https://www.youtube.com/watch?v=9g_06jBU-ag)<br />
 * [What is a Forecast? Video on access and use of climate information in rural communities produced by BBC Media Action, supported by University of Bristol](https://youtu.be/BEPH8W6msV4)<br />
-* [Living With Climate Change - Somalia. Funded under DOWN2EARTH as part of BBC Media Action series.](https://www.youtube.com/watch?v=4pjotcp5gAA)<br />
+* [Living Climate Change Africa - Somalia. Funded under DOWN2EARTH as part of BBC Media Action series.](https://www.youtube.com/watch?v=4pjotcp5gAA)<br />
 
 ---
 
@@ -144,7 +145,7 @@ Student and postdoc work denoted by *.
 
 35) *Cocking, K., Singer, M.B., MacLeod, D., Cuthbert, M.O., Rosolem, R., Muthusi, F., Kimutai, J., Omondi, P., Hassan, A.M., Teshome, A., Michaelides, K. (2024-In Press); Locally defined seasonal rainfall timings, totals, and extremes within the Horn of Africa Drylands based on rain gauge data, _Journal of Hydrometeorology_, 25:1845–1861, [10.1175/JHM-D-23-0228.1](https://journals.ametsoc.org/view/journals/hydr/25/12/JHM-D-23-0228.1.xml). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Cocking_etal_2024.pdf).
 
-34) Van Loon, A.F., Kchouk, S., Matanó, A., Tootoonchi, F., Alvarez-Garreton, C., Hassaballah, K.E.A., et al. (2024); Review article: Drought as a continuum – memory effects in interlinked hydrological, ecological, and social systems. _Natural Hazards Earth Syst. Sci._, 24(9), 3173-3205. , , doi:[10.5194/nhess-24-3173-2024](https://nhess.copernicus.org/articles/24/3173/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/vanLoon_etal_2024.pdf).
+34) Van Loon, A.F., Kchouk, S., Matanó, A., Tootoonchi, F., Alvarez-Garreton, C., Hassaballah, K.E.A., et al. (2024); Review article: Drought as a continuum – memory effects in interlinked hydrological, ecological, and social systems. _Natural Hazards Earth Syst. Sci._, 24(9), 3173-3205, doi:[10.5194/nhess-24-3173-2024](https://nhess.copernicus.org/articles/24/3173/2024/). [<span style="color:red">pdf</span>](../assets/pdfs/publications/vanLoon_etal_2024.pdf).
 
 33) *Schrieks, T., Botzen, W.J.W., Haer, T., Aerts, J.C.J.H. (2024); Preferences for drought risk adaptation support in Kenya: Evidence from a discrete choice experiment and three decision-making theories, _Ecological Economics_, 227, doi:[10.1016/j.ecolecon.2024.108425](https://www.sciencedirect.com/science/article/pii/S0921800924003227). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Schrieks_etal_2024.pdf).
 
