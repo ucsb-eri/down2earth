@@ -10,7 +10,7 @@ tags: news
 excerpt: "Journalist gets key training from DOWN2EARTH."
 header:
    image: assets/images/Wambaz.jpg
-   caption: Wambaz (credit: BBC Media Action)
+   caption: Wambaz, photo credit-BBC Media Action
 ---
 
 [DOWN2EARTH makes an important impact to journalist in Kenya.](https://www.bbc.co.uk/mediaaction/where-we-work/africa/kenya/impact-training-wambaz-story-journalist/)
