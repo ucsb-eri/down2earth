@@ -38,6 +38,8 @@ Finally, here is an example of a map showing below normal Groundwater Status for
 
 WujihaCast users can request multiple types of information from each use case and/or format. They can also allow the chatbot to detect their current location to find the most appropriate county (Kenya), zone (Ethiopia), or region (Somalia). Alternatively, the user can select their desired country and and subnational unit from the prompts. The current version of the chatbot is built for Telegram and is hosted at ICPAC. It is possible that the chatbot could be adapted for other social media platforms in future (e.g., WhatsApp).<br />
 
+If you want more detail on the development and implementation of the chatbot, you can find it [here](/assets/files/WujihaCast_README.pdf)
+
 If you have used the chatbot and would like to provide feedback, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSePWJtR5W03fG2Mv5SmDgAryx2DuzqJi172a3LYtrqYbdQWeQ/viewform?usp=dialog). This feedback will ideally help us continue to improve this climate service.
 
 <br /><a href="https://ec.europa.eu/programmes/horizon2020/en">
