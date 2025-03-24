@@ -124,7 +124,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 ---
 
 ## Workshops/Events Organized by DOWN2EARTH
-* [DOWN2EARTH Side Event, COP29](../assets/files/Report_D2E_COP29_side_event.pdf), ICPAC, COP29, Baku, Azerbaijan, 15/11/2024<br />
+* [DOWN2EARTH Side Event](../assets/files/Report_D2E_COP29_side_event.pdf), ICPAC, COP29, Baku, Azerbaijan, 15/11/2024<br />
 * [DOWN2EARTH Stakeholder Event](../assets/images/D2E_StakeholderMtg_2024.jpg), ICPAC, Nairobi, 28/10/2024<br />
 * [DOWN2EARTH Stakeholder Event](../assets/images/D2E_StakeholderMtg_2024b.jpg), OSSREA, Addis Ababa, 25/10/2024<br />
 * [Sister Projects Climate Services for Africa Policy Workshop](https://confer-h2020.eu/wp-content/uploads/2024/05/CONFER-Agenda_20June2024.pdf), Brussels, June 20, 2024<br />
