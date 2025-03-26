@@ -70,7 +70,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 	* [Inclusion of DOWN2EARTH hydrological model outputs within ICPAC's East Africa Hazards Watch-Water Security Tab](https://eahazardswatch.icpac.net/map/ea)<br />
 	* Installation of CUWALID at ICPAC
 	* Employment of CUWALID at ICPAC for impact-based forecasts of MAM 2025 and delivery of outputs at GHACOF 69 and through ICPAC-hosted WujihaCast
-	* Summary of Regional Decision Makers Workshop, 23/01/2025](https://www.africandemystifier.com/how-igads-down2earth-project-addressing/)
+	* [Summary of Regional Decision Makers Workshop, 23/01/2025](https://www.africandemystifier.com/how-igads-down2earth-project-addressing/)
 * D4.7 Technical workshops on CUWALID for stakeholders (Task 4.2)<br />
 	* CUWALID Workshop for Stakeholders, ICPAC, Nairobi, Kenya, 27/11/2023<br /> 
 	* CUWALID Workshop for ICPAC, ICPAC, Nairobi, Kenya, 10/06/2024 - 14/06/2024<br /> 
