@@ -21,6 +21,12 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 * D1.5 Report on national/regional historical climate adaptation policy (Task 1.3)
 	* [Policy Brief: Climate adaptation, water and food security policies in Ethiopia, Kenya and Somalia ](../assets/files/Final_Overall_D2E Policy Brief.pdf)<br />
 	* [Full Policy Report: Climate adaptation, water and food security policies in Ethiopia, Kenya and Somalia](../assets/files/Final_Policy Analysis Report.pdf)<br />
+	* [Policy Framework - Amharic](../assets/files/DOWN2EARTH_Policy_Framework_FINAL_Amharic.pdf)<br />
+	* [Policy Framework - Somali](../assets/files/DOWN2EARTH_Policy_Framework_FINAL_Somali.pdf)<br />
+	* [Policy Framework - Swahili](../assets/files/DOWN2EARTH_Policy_Framework_FINAL_Swahili.pdf)<br />
+	* [One Page Policy Framework Summary](../assets/files/One_Pager DOWN2EARTH Policy Framework_FINAL.pdf)<br />
+	* [Project Climate Adaptation Policy Workshop Report](../assets/files/Policy Workshop Report_April 2024.pdf)<br />
+	* [Full Policy Report: Climate adaptation, water and food security policies in Ethiopia, Kenya and Somalia](../assets/files/Final_Policy Analysis Report.pdf)<br />
 
 **WP2**<br />
 * D2.1 Report on historical trends in climate/water (Task 2.1)<br />
@@ -109,6 +115,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 * [DOWN2EARTH Promotional Video](https://www.youtube.com/watch?v=9g_06jBU-ag)<br />
 * [What is a Forecast? Video on access and use of climate information in rural communities produced by BBC Media Action, supported by University of Bristol](https://youtu.be/BEPH8W6msV4)<br />
 * [Living Climate Change Africa - Somalia. Funded under DOWN2EARTH as part of BBC Media Action series.](https://www.youtube.com/watch?v=4pjotcp5gAA)<br />
+* [Living Climate Change Africa - Ethiopia. Funded under DOWN2EARTH as part of BBC Media Action series.](https://www.bbc.co.uk/mediaaction/climate-change-resilience/living-climate-change/ethiopia-living-climate-change-2025)<br />
 
 ---
 
