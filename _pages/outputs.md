@@ -114,8 +114,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 
 * [DOWN2EARTH Promotional Video](https://www.youtube.com/watch?v=9g_06jBU-ag)<br />
 * [What is a Forecast? Video on access and use of climate information in rural communities produced by BBC Media Action, supported by University of Bristol](https://youtu.be/BEPH8W6msV4)<br />
-* [Living Climate Change Africa - Somalia. Funded under DOWN2EARTH as part of BBC Media Action series.](https://www.youtube.com/watch?v=4pjotcp5gAA)<br />
-* [Living Climate Change Africa - Ethiopia. Funded under DOWN2EARTH as part of BBC Media Action series.](https://www.bbc.co.uk/mediaaction/climate-change-resilience/living-climate-change/ethiopia-living-climate-change-2025)<br />
+* [Living Climate Change Africa - Series of films from Ethiopia, Kenya, and Somalia. Funded under DOWN2EARTH as part of ongoing BBC Media Action series.](https://www.bbc.co.uk/mediaaction/our-work/climate-change-resilience/living-climate-change-2025/)<br />
 
 ---
 
