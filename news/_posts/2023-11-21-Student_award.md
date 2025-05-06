@@ -4,7 +4,7 @@ title: DOWN2EARTH PhD student receives EGU award
 date: 2023-11-21T00:00:00+00:00
 author: Michael Singer
 guid: https://singer.eri.ucsb.edu/?p=4886
-permalink: /2023/11/09/D2E_GA_Amsterdam/
+permalink: /2023/11/21/Student_award/
 categories: 
 tags: news
 excerpt: "DOWN2EARTH PhD student receives EGU award."
