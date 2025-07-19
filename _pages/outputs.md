@@ -101,6 +101,7 @@ excerpt: 'Deliverables, publications, and other products.<br /><br />'
 	* [DOWN2EARTH Feedback leaflet - A4](../assets/files/Feedback_General_Leaflet.pdf)<br />
 * D6.3 Communication and Dissemination Plan (Task 6.1)<br />
 	* [Communicating Project Outcomes from EU Horizon 2020 Sister Projects Workshop with European Commission](https://www.norceresearch.no/en/news/cooperation-that-goes-beyond-just-shaking-hands)
+	* [Final project coverage on CORDIS](https://cordis.europa.eu/article/id/458231-new-climate-tools-to-shape-policies-and-secure-the-future-of-the-horn-of-africa?WT.mc_id=exp)
 
 ---
 
@@ -154,7 +155,7 @@ Student and postdoc work denoted by *.
 
 41) Daron, J., Michaelides, K., Hassaballah, K., Quichimbo, A., Parfitt, R., Stacey, J., Steynor, A., Johnson, C., MacLeod, D., Singer, M.B. (2025); Co-produced impact-based seasonal outlooks, _Climate Services_, 38:100579, doi:[10.1016/j.cliser.2025.100579](https://www.sciencedirect.com/science/article/pii/S2405880725000408), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Daron_etal_2025.pdf).
 
-40) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., Singer, M.B., Michaelides, K. (2025); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, ACM Computing and Sustainable Societies 2025 (COMPASS 2025), doi:[10.1145/nnnnnnn.nnnnnnn](https://compass2025.hotcrp.com/doc/compass2025-final47.pdf?cap=hcav47DNfuWCWjDNhBEPRaErsLoDfA), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
+40) *Rigby, J.M., Luta, A., Preist, C., Wasonga, O., **Singer, M.B.**, Michaelides, K. (2025); Mobile Phones in the Drylands: How Technology Supports Information Sharing in Rural Kenya, Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies: Association for Computing Machinery; 2025: 167–183, doi:[10.1145/3715335.3735464](https://dl.acm.org/doi/10.1145/3715335.3735464), [<span style="color:red">pdf</span>](../assets/pdfs/publications/Rigby_etal_2025.pdf).
 
 39) *Schrieks, T., Botzen, W.J.W., Haer, T., Aerts, J.C.J.H. (2025); Preferences for drought risk adaptation support in Kenya: Evidence from a discrete choice experiment and three decision-making theories, _Ecological Economics_, 227, doi:[10.1016/j.ecolecon.2024.108425](https://www.sciencedirect.com/science/article/pii/S0921800924003227). [<span style="color:red">pdf</span>](../assets/pdfs/publications/Schrieks_etal_2025.pdf).
 
