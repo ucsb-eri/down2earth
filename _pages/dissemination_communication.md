@@ -17,6 +17,8 @@ In order to maximize the success of the _DOWN2EARTH_ project, we have developed 
 4. expanded data collection networks supporting governments, stakeholders, and end-users; and
 5. the development of modern policy frameworks for climate adaptation based on direct input from and interaction with end-user agro-pastoralists supporting policymakers and ultimately end-users.   
 
+Some key dissemination outputs can be found [here](/outputs/). Additionally, the team has created and implemented a Telegram chatbot for disseminating seasonal impact-based forecasts to a wide range of audiences. Details can be found [here](/WujihaCast/).
+
 More info on the outreach effots in _DOWN2EARTH_ can be found [here](/outreach/)
 
 ### [Back to Project Aims and Impact](/aims/)
