@@ -33,6 +33,7 @@ intro:
   - excerpt: 'Follow our project:&nbsp; [<i class="fab fa-twitter"></i> @D2E_Project](https://twitter.com/D2E_Project){: .btn .btn--twitter}'
 
 youtubeId: 9g_06jBU-ag/preview
+youtubeId2: BEPH8W6msV4/preview
 ---
 **The _DOWN2EARTH_ project addresses the multi-faceted challenges of water scarcity and food insecurity under climate change within increasingly vulnerable rural populations in Horn of Africa Drylands.**  
 
@@ -41,3 +42,8 @@ youtubeId: 9g_06jBU-ag/preview
 
 
 {% include feature_row %}
+
+{: .align-center}
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
+[Living Climate Change Africa - Series of films from Ethiopia, Kenya, and Somalia. Funded under DOWN2EARTH as part of ongoing BBC Media Action series.](https://www.bbc.co.uk/mediaaction/our-work/climate-change-resilience/living-climate-change-2025/)<br />
