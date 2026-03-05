@@ -30,14 +30,15 @@ feature_row:
     title: "Climate Change Planning"
     excerpt: "Creation of novel policy frameworks and communication to address climate adaptation."
 intro:
-  - excerpt: 'Follow our project:&nbsp; [<i class="fab fa-twitter"></i> @D2E_Project](https://twitter.com/D2E_Project){: .btn .btn--twitter}'
+
 
 youtubeId: 9g_06jBU-ag/preview
 youtubeId2: BEPH8W6msV4/preview
 youtubeId3: I6SsJwdNjaI?si=2iNXEo9Y8XRRxm6p/preview
 youtubeId4: 0ThQpOfLN-s?si=OBnL_6G37REYb_iR/preview
-youtubeId5: PtgOGQCSEx4?si=UT_rtO1YoX_U-0Tr/preview
-youtubeId5: g-n5fEoHQfQ?si=08wzXoUxHtAIBrUd/preview
+youtubeId5: PtgOGQCSEx4?si=zto-dYv9jqswOxXW/preview
+youtubeId6: g-n5fEoHQfQ?si=-VoCoYZDyX0udHfP/preview
+
 ---
 **The _DOWN2EARTH_ project addresses the multi-faceted challenges of water scarcity and food insecurity under climate change within increasingly vulnerable rural populations in Horn of Africa Drylands.**  
 
