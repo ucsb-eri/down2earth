@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: ./assets/images/D2E_Texture03.jpg
 excerpt: 'A new forecasting tool to support decision making.<br /><br />' 
-
+driveId: 1iIXLX4ppDn524u2TeCkCYXEfu3-rHqlp/preview 
 ---
   <img src="/assets/images/Logos3.jpg" alt="CUWALID" class="responsive">
 <br /><br />**The EU-funded _DOWN2EARTH_ project has created a new modeling system that converts climate forecasts into useful information on water and vegetation to support decision making and planning at multiple levels of society.**  
@@ -32,8 +32,8 @@ DRYP includes a surface layer that interacts with the atmospheric climatic forci
 The Climate Simulation module in CUWALID consists of two main components:<br /><br /> 
 Component one is the STOchastic Rainstorm Model (STORM), which simulates randomized but realistic rainstorms for each season including rainstorm area, duration, maximum intensity and spatial intensity gradient, trajectory, and timing.<br /><br />
 ![image-center](/assets/images/STORM_parameters.jpg){: .align-center}<br /><br /> 
-The original data used for parameterization of STORM comes from IMERG. Below is an example comparing a season of IMERG rainfall data to stochastically generated rainfall for a similar season. Note that we do not expect an exact match to the spatial distribution of rainfall. The target is achieving the same median seasonal total across the domain (see time series graphs below). <br /><br /> 
-
+The original data used for parameterization of STORM comes from IMERG. Below is an example comparing a MAM season of IMERG rainfall data to stochastically generated rainfall for a similar season. Note that we do not expect an exact match to the spatial distribution of rainfall. The target is achieving the same median seasonal total across the domain (see time series graphs below). <br /><br /> 
+{% include googleDrivePlayer.html id=page.driveId caption="Observed rainfall from IMERG v stochastically simulated rainfall from STORM" %}
 STORM generates individual storms with realistic characteristics (intensity, speed, area) that result in output of total seasonal rainfall across subregions of the HAD that is consistent with climatological data.<br /><br />
 STORM can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast. The image below shows rainfall forecasts for the OND 2022 (left) and MAM 2022 (right) seasons, where the tercile rainfall forecast from ICPAC is shown in the bottom right panel and the STORM-simulated rainfall totals are shown in the bottom left panel, which may be compared to the historical average for that season in the top left panel.<br /><br />
 ![image-center](/assets/images/STORM_forecast.jpg){: .align-center}<br /><br /> 
