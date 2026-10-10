@@ -7,6 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: ./assets/images/D2E_Texture03.jpg
 excerpt: 'A new forecasting tool to support decision making.<br /><br />' 
+
 ---
   <img src="/assets/images/Logos3.jpg" alt="CUWALID" class="responsive">
 <br /><br />**The EU-funded _DOWN2EARTH_ project has created a new modeling system that converts climate forecasts into useful information on water and vegetation to support decision making and planning at multiple levels of society.**  
@@ -33,10 +34,9 @@ Component one is the STOchastic Rainstorm Model (STORM), which simulates randomi
 ![image-center](/assets/images/STORM_parameters.jpg){: .align-center}<br /><br /> 
 The original data used for parameterization of STORM comes from a regional gridded rainfall dataset we created in _DOWN2EARTH_ called Gridded hI-resolution Rainfall for the Horn of AFrica (GIRHAF). Below is an example of GIRHAF for the month of November 2019.<br /><br /> 
 <center><video controls>
-  <source src="/assets/images/GIRHAF_movie.mp4" type="video/mp4">
+  <source src="/assets/images/IMERG_vs_STORM_rainfall_2020-03-01_2020-05-31.mp4" type="video/mp4">
 </video></center><br /><br /> 
 STORM generates individual storms with realistic characteristics (intensity, speed, area) that result in output of total seasonal rainfall across subregions of the HAD that is consistent with climatological data.<br /><br />
-![image-center](/assets/images/IMERG_vs_STORM_rainfall_2020-03-01_2020-05-31.mp4){: .align-center}<br /><br /> 
 STORM can be straightforwardly adjusted to generate above normal or below normal seaonal rainfall totals for specific areas of the HAD, based on the spatial map of ICPAC's tercile rainfall forecast. The image below shows rainfall forecasts for the OND 2022 (left) and MAM 2022 (right) seasons, where the tercile rainfall forecast from ICPAC is shown in the bottom right panel and the STORM-simulated rainfall totals are shown in the bottom left panel, which may be compared to the historical average for that season in the top left panel.<br /><br />
 ![image-center](/assets/images/STORM_forecast.jpg){: .align-center}<br /><br /> 
 Component two is the STOchastic Potential Evapotranspiration model (stoPET), which simulates spatially explicit fields of evaporative demand from the atmosphere to take up water from the land surface. The original data used for parameterization of stoPET comes from a global PET dataset we created in _DOWN2EARTH_ called hourly Potential EvapoTranspiration (hPET). stoPET generates diurnal and seaonsal variations in PET that match those in the historical dataset (hPET). Below see a climatological comparison between hPET and stoPET.<br /><br />
