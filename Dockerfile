@@ -1,8 +1,9 @@
 # Use Jekyll image to build the website
-FROM jekyll/jekyll:4.2.3 as builder
+FROM jekyll/jekyll:4.4.1 as builder
 
 # Set working directory
-RUN mkdir /app && chown -R jekyll:jekyll /app
+RUN mkdir /app
+# && chown -R jekyll:jekyll /app
 WORKDIR /app
 
 # Optimizing bundle install by caching gems
@@ -13,7 +14,7 @@ RUN bundle config set --local path 'vendor/bundle' && bundle install --jobs 4 --
 COPY . .
 
 # Install dependencies and build the website
-RUN jekyll build --incremental --profile
+RUN bundle exec jekyll build --incremental --profile
 
 # Use Nginx image to serve the website
 FROM nginx:alpine

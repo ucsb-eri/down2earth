@@ -7,4 +7,7 @@ group :jekyll_plugins do
 	gem "jekyll-feed"
 	gem "jekyll-cloudinary"
 	gem "faraday", "~> 0.17" 
+  gem "csv"
+  gem "base64"
+  gem "bigdecimal"
 end
